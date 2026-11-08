@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T11:14:05.138Z",
+ "generatedAt": "2026-11-08T13:40:15.144Z",
  "articles": [
   {
    "title": "Analysis: China’s quarterly CO2 falls 3% in largest drop since Covid",
@@ -62,14 +62,24 @@
    "origin": "The Guardian · Opinion"
   },
   {
-   "title": "The UK’s legal cannabis market is booming – so why can’t this talented artist get any to treat his epilepsy?",
-   "summary": "Companies have rushed to supply the drug as a wellness treatment, but patients with serious illnesses aren’t able to get NHS prescriptions In 2022, a prodigiously talented young artist named Louis Petit was preparing to return to the UK, having been effectively exiled in the Netherlands as a…",
-   "link": "https://www.theguardian.com/commentisfree/2026/nov/01/uk-legal-cannabis-market-booming-louis-petit-epilepsy",
-   "date": "2026-11-01T12:33:55.000Z",
+   "title": "Centrism did not win the Democratic party the election",
+   "summary": "The blue wave, while a rebuke of Trump’s policies, was also a referendum on the party’s status quo On election night I stood in a crowd at Harlem Tavern, a restaurant in New York City, at the electoral party for Darializa Avila Chevalier, the Democratic Socialists of America (DSA) member and…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/08/democratic-party-midterm-election-centrism",
+   "date": "2026-11-08T12:00:41.000Z",
    "source": "The Guardian",
-   "author": "Kojo Koram",
-   "image": "https://i.guim.co.uk/img/media/3900bfbfbd4962ad0682b7dbb417584050c2c726/0_0_6144_4912/master/6144.jpg?width=700&quality=85&auto=format&fit=max&s=325753b3f92575293c944275771b1231",
+   "author": "Heba Gowayed",
+   "image": "https://i.guim.co.uk/img/media/cc9dee8198367d6496c9bf5664275f2e07bdb548/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=a65c76e63b1869923ceb462c5ce7391c",
    "origin": "The Guardian · Opinion"
+  },
+  {
+   "title": "Se le esportazioni di petrolio sono riprese, perché i prezzi rimangono alti?",
+   "summary": "In breve: la guerra in Medio Oriente non è ancora finita",
+   "link": "https://www.ilpost.it/2026/11/08/prezzo-petrolio-guerra-medio-oriente-midterm/",
+   "date": "2026-11-08T11:22:20.000Z",
+   "source": "Il Post",
+   "image": "https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/05/1793901698-AP26117549417584.jpg",
+   "imgChecked": true,
+   "origin": "Il Post"
   },
   {
    "title": "There is no ‘magic pill’ to fix young women’s anxiety. I should know – I once took propranolol myself",
@@ -413,7 +423,7 @@
   },
   {
    "title": "India approves Viability Gap Funding to support 92GWh of BESS and pumped hydro energy storage capacity",
-   "summary": "India’s Union government has approved the next IR145 billion (US$1.5 billion) phase of the Viability Gap Funding (VGP) policy support mechanism for energy storage capacity additions. In addition, a Ministry of Power official has reportedly said state power companies will likely soon be required to…",
+   "summary": "India’s Union government has approved the next IR145 billion phase of Viability Gap Funding (VGP) for energy storage capacity additions.",
    "link": "https://www.energy-storage.news/india-approves-viability-gap-funding-to-support-92gwh-of-bess-and-pumped-hydro-energy-storage-capacity/",
    "date": "2026-11-06T14:02:00.000Z",
    "source": "Energy-Storage.news",
@@ -818,24 +828,6 @@
    "origin": "POLITICO Europe · Opinion"
   },
   {
-   "title": "Fotovoltaico retrattile per il trattamento delle acque reflue",
-   "summary": "Il più grande tetto solare retrattile della Germania, con una capacità di 2,745 MW, è in costruzione presso un impianto di depurazione a Stoccarda. Il completamento è previsto nel 2027: il sistema genererà oltre 2,2 GWh all’anno, coprendo circa il 9% del fabbisogno elettrico dell’impianto.",
-   "link": "https://www.pv-magazine.it/2026/11/02/retractable-photovoltaics-for-wastewater-treatment/",
-   "date": "2026-11-02T12:36:00.000Z",
-   "source": "pv magazine Italia",
-   "author": "Massimiliano Tripodo",
-   "origin": "pv magazine Italia"
-  },
-  {
-   "title": "La Palma recupera la electricidad tras un apagón de casi cuatro horas",
-   "summary": "El consejero de Transición Ecológica y Energía del Gobierno de Canarias, Mariano Hernández Zapata, ha advertido de que la infraestructura eléctrica de la isla arrastra importantes problemas en generación y redes eléctricas.",
-   "link": "https://elperiodicodelaenergia.com/la-palma-recupera-la-electricidad-tras-un-apagon-de-casi-cuatro-horas/",
-   "date": "2026-11-02T12:19:00.000Z",
-   "source": "El Periódico de la Energía",
-   "image": "https://cdn.elperiodicodelaenergia.com/2017/02/63710.jpg",
-   "origin": "El Periódico de la Energía"
-  },
-  {
    "title": "Fake film deals and emails from top agents: who is behind the explosion in literary scams?",
    "summary": "Writers are being bombarded daily with invitations from fake book groups and offers to publicise their work. For the scamming industry, aspiring authors can be a soft touch • This piece first appeared in the Dial ‘Hello Professor Snigdha Poonam,” the email began. I read that again. Nobody has ever…",
    "link": "https://www.theguardian.com/news/ng-interactive/2026/oct/29/paid-for-book-clubs-fake-film-deals-emails-explosion-literary-scams-authors",
@@ -908,6 +900,46 @@
    "author": "Brian Goodman",
    "image": "https://i.guim.co.uk/img/media/90abe21661a4fbfe4dee57149866dcdc41b62325/63_0_1875_1500/master/1875.jpg?width=700&quality=85&auto=format&fit=max&s=29e9aab627238d117abfdcdc9bcc1dd8",
    "origin": "The Guardian · The Long Read"
+  },
+  {
+   "title": "Wozu all die Steckdosen? Warum Wohnungsbau dem Klima schadet",
+   "summary": "Zu groß, zu viele Vorschriften, zu viel Komfort: Wohnen muss billiger und ökologischer werden. Die FR-Kolumne „Öko-Logisch“",
+   "link": "https://www.fr.de/meinung/kolumnen/drei-zimmer-wohnung-mit-47-steckdosen-warum-wohnungen-so-teuer-sind-94579668.html",
+   "date": "2026-11-08T13:29:15.000Z",
+   "source": "Frankfurter Rundschau",
+   "author": "Rainer Grießhammer",
+   "image": "https://www.fr.de/assets/images/44/782/44782660-ein-wohngebiet-mit-neubauten-in-vielen-regionen-in-deutschland-ist-bezahlbarer-wohnraum-knapp-zu-dpa-berater-teurer-wohnraum-bremst-2uQH6He40kef.jpg",
+   "origin": "Frankfurter Rundschau · Meinung"
+  },
+  {
+   "title": "‘I just got AI emails rejecting my application – or no reply at all’: this is the soul-crushing reality of being a Neet",
+   "summary": "Alan Milburn describes them as a ‘lost generation’. Those I spoke to just want to know what they have to do to finally get a job – and a chance in life Callum Atkinson is 23 years old, and lives in the Greater Manchester town of Rochdale. Until very recently, he was one of hundreds of thousands of…",
+   "link": "https://www.theguardian.com/commentisfree/2026/nov/08/young-people-soul-crushing-reality-neet-alan-milburn-life",
+   "date": "2026-11-08T13:27:33.000Z",
+   "source": "The Guardian",
+   "author": "John Harris",
+   "image": "https://i.guim.co.uk/img/media/4d73a053a31c8be3e86232df508c61d5d5a23011/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=d1951d27022ddc9d5a47abdb8d6cae8c",
+   "origin": "The Guardian · Opinion"
+  },
+  {
+   "title": "Südafrika: Warum der historische Absturz des ANC eine gute Nachricht ist",
+   "summary": "Der Afrikanische Nationalkongress (ANC) hat sich lange in der Sicherheit gewähnt, den Staat nicht nur zu regieren, sondern ihn zu verkörpern. Die Kommunalwahlen nun zeigen: Diese Zeiten sind vorbei.",
+   "link": "https://www.sueddeutsche.de/meinung/suedafrika-anc-kommunalwahlen-nelson-mandela-kommentar-li.3575462",
+   "date": "2026-11-08T13:24:18.000Z",
+   "source": "Süddeutsche Zeitung",
+   "author": "Paul Munzinger",
+   "image": "https://www.sueddeutsche.de/2026/11/06/94275d8f-65dd-4f60-a3bb-baacbb172c3a.jpg?rect=200%2C0%2C3200%2C2400&width=1000&fm=jpg&q=60",
+   "origin": "Süddeutsche Zeitung · Meinung"
+  },
+  {
+   "title": "Zohran Mamdani has a mustache now. We cannot take this lightly",
+   "summary": "The once-bearded New York mayor has downsized his facial hair. Does it work? I’ve battled with facial hair almost my entire adult life. I started growing it early, turning me into a pubescent villain from a spaghetti western. I was told by my parents not to shave it off, lest it grow back more…",
+   "link": "https://www.theguardian.com/commentisfree/2026/nov/08/zohran-mamdani-mustache-facial-hair",
+   "date": "2026-11-08T12:00:40.000Z",
+   "source": "The Guardian",
+   "author": "Dave Schilling",
+   "image": "https://i.guim.co.uk/img/media/0c21c6c1aaf1a3fa6cbded321e48ba40ebb895a4/0_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=2753846cc64a0fd44e4c15bf26bfc826",
+   "origin": "The Guardian · Opinion"
   },
   {
    "title": "EU gas prices surge 140% as storage hits a 14-year low ahead of winter",
@@ -2623,16 +2655,6 @@
    "origin": "The Guardian · Opinion"
   },
   {
-   "title": "Crisi in Polonia, se le istituzioni diventano campo di battaglia politico",
-   "summary": "Lo scontro in merito alla Corte Costituzionale è il segno di una crisi profonda della democrazia nel paese. L'articolo Crisi in Polonia, se le istituzioni diventano campo di battaglia politico proviene da MicroMega .",
-   "link": "https://www.micromega.net/crisi-in-polonia-se-le-istituzioni-diventano-campo-di-battaglia-politico/",
-   "date": "2026-11-03T13:39:24.000Z",
-   "source": "MicroMega",
-   "author": "Daniele Stasi",
-   "image": "https://static.mitigo.systems/micromega-mitigo/2026/11/VARIE-CONDIVISO-INGRID.jpg",
-   "origin": "MicroMega"
-  },
-  {
    "title": "Why Kushner and Witkoff Keep Failing",
    "summary": "It’s not just a failure of tactics. It’s an entirely mistaken worldview.",
    "link": "https://foreignpolicy.com/2026/11/03/kushner-witkoff-diplomacy-russia-iran-failure/",
@@ -2651,16 +2673,6 @@
    "author": "Leonardo Berlen",
    "imgChecked": true,
    "origin": "QualEnergia"
-  },
-  {
-   "title": "Perché Gaza non ha contato nel voto degli israeliani",
-   "summary": "Le due principali coalizioni che si sono sfidate alle elezioni del 27 ottobre la pensano allo stesso modo sulla guerra e l’occupazione dei territori palestinesi Leggi",
-   "link": "https://www.internazionale.it/notizie/simon-speakman-cordall/2026/11/03/gaza-assente-elezioni-israele",
-   "date": "2026-11-03T11:51:08.000Z",
-   "source": "Internazionale",
-   "author": "Internazionale",
-   "image": "https://media.internazionale.it/images/2026/11/02/362808-hd.jpg",
-   "origin": "Internazionale"
   },
   {
    "title": "Fotovoltaico, le zone di accelerazione dell’Umbria al rush finale",
@@ -2782,44 +2794,6 @@
    "origin": "UnHerd"
   },
   {
-   "title": "Why British Jews prefer Elstree to New York",
-   "summary": "There is comfort in the suburbs",
-   "link": "https://unherd.com/2026/11/why-british-jews-prefer-elstree-to-new-york/",
-   "date": "2026-11-03T00:02:11.000Z",
-   "source": "UnHerd",
-   "author": "Samuel Rubinstein",
-   "image": "https://unherd.com/wp-content/uploads/2026/10/4219.jpeg?w=300",
-   "origin": "UnHerd"
-  },
-  {
-   "title": "How the West is losing Africa",
-   "summary": "China is taking advantage of Guinea’s rare earths",
-   "link": "https://unherd.com/2026/11/how-the-west-is-losing-africa/?edition=us",
-   "date": "2026-11-03T00:01:12.000Z",
-   "source": "UnHerd",
-   "author": "Josef Skrdlik and Oliver Dunn",
-   "image": "https://unherd.com/wp-content/uploads/2026/10/GettyImages-1247975602.jpg?w=300",
-   "origin": "UnHerd"
-  },
-  {
-   "title": "Valutazioni ambientali: gli esiti di ottobre per le rinnovabili",
-   "summary": "Sul portale Mase per le autorizzazioni ambientali si chiude un mese positivo per l’eolico come non accadeva da molto tempo. Nel complesso si contano 393,6 nuovi MW autorizzati onshore, cui si aggiungono i 250 MW del progetto 7SeasMed nel Canale di Sicilia (si veda Eolico offshore galleggiante, ok…",
-   "link": "https://www.qualenergia.it/pro/articoli-pro/valutazioni-ambientali-esiti-ottobre-rinnovabili/",
-   "date": "2026-11-02T13:00:56.000Z",
-   "source": "QualEnergia",
-   "author": "Antonio Ruggiero",
-   "origin": "QualEnergia"
-  },
-  {
-   "title": "Il testo della Manovra 2027: tutte le misure per energia, rinnovabili e imprese",
-   "summary": "Con la pubblicazione del disegno di legge di Bilancio 2027-2029, approvato dal Consiglio dei ministri il 28 ottobre e trasmesso alla Camera, è ora possibile delineare con maggiore precisione il funzionamento delle misure energetiche anticipate dal Governo nei giorni scorsi. Gli stanziamenti…",
-   "link": "https://www.qualenergia.it/pro/articoli-pro/manovra-2027-testo-tutte-misure-energia-rinnovabili-imprese/",
-   "date": "2026-11-02T11:30:36.000Z",
-   "source": "QualEnergia",
-   "author": "Massimiliano Cassano",
-   "origin": "QualEnergia"
-  },
-  {
    "title": "How the left betrayed the Jarrow Marchers",
    "summary": "First the Labour Party neglected the protesters. Then it lionised them. Then it forgot them",
    "link": "https://www.newstatesman.com/culture/history/2026/10/how-the-left-betrayed-the-jarrow-marchers",
@@ -2839,16 +2813,6 @@
    "author": "Andy Colthorpe",
    "image": "https://www.energy-storage.news/wp-content/uploads/2026/10/IMG_7078-768x576.jpg",
    "origin": "Energy-Storage.news"
-  },
-  {
-   "title": "Data center purchases of electrical equipment up 80% since 2025: Hubbell",
-   "summary": "A temporary shortage of meter components should be fully resolved by the end of the year, the electrical equipment supplier said in its third-quarter earnings call.",
-   "link": "https://www.utilitydive.com/news/data-center-purchases-of-electrical-equipment-up-80-since-2025-hubbell/873134/",
-   "date": "2026-10-29T12:00:00.000Z",
-   "source": "Utility Dive",
-   "author": "Emma Penrod",
-   "image": "https://imgproxy.divecdn.com/KGu9AE6pLRI_1eDno1Gf5DwSZI0tXBaNHtM4vSzgR14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BdXN0aW5fVGV4YXNfU3Vic3RhdGlvbi5qcGc=.webp",
-   "origin": "Utility Dive"
   },
   {
    "title": "Why a potato latke is my way to fight antisemitism",
@@ -2968,10 +2932,36 @@
    "origin": "New Statesman"
   },
   {
+   "title": "Klimadebatte: Ist der Kipppunkt das falsche Bild?",
+   "summary": "Klimaexpertinnen und -experten warnen seit Jahren vor irreversiblen Schäden in Natur und Umwelt. Manche meinen, man sollte lieber von Kippprozessen sprechen.",
+   "link": "https://www.sueddeutsche.de/meinung/kipppunkt-cop31-weltklimakonferenz-antalya-2026-li.3576932",
+   "date": "2026-11-08T13:24:43.000Z",
+   "source": "Süddeutsche Zeitung",
+   "author": "Felix Hütten",
+   "image": "https://www.sueddeutsche.de/2022/06/20/5758b1da-bd52-4f9c-8c92-5e021f49a351.jpeg?rect=0%2C411%2C1100%2C825&width=1000&fm=jpg&q=60",
+   "origin": "Süddeutsche Zeitung · Meinung"
+  },
+  {
+   "title": "Qatar becomes largest buyer of US LNG amid Hormuz crisis",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUzdxZHZuSy1fekg4aVh1NjBhYXlIVy01blNhaGxzMzBTR2RhWl83OGhKNWtGX25ZLUpNZGVrZ19YSEtRTElCOGhyMTFVVHROTkJZb3FYOFhwNWIzSVJ6UFBmQ0dScjhDUF9rRjR5RmhyMXBVRm1neHFoeXgxMkk3MU01TzVIRHNPSTFkV2hiX19wY01wQzN5d2ZiWQ?oc=5",
+   "date": "2026-11-08T12:58:04.000Z",
+   "source": "Daily Sun",
+   "origin": "Google News · Energy"
+  },
+  {
    "title": "Di quanto potrebbero ridursi le multe per eccesso di velocità",
    "summary": "È una delle questioni più criticate del nuovo Codice della strada e potrebbe avere conseguenze sulla sicurezza e sulle casse dei comuni",
    "link": "https://www.ilpost.it/2026/11/08/nuovo-codice-della-strada-multe-per-eccesso-di-velocita/",
    "date": "2026-11-08T08:11:32.000Z",
+   "source": "Il Post",
+   "origin": "Il Post"
+  },
+  {
+   "title": "Cosa sappiamo dell’attacco a Cracovia",
+   "summary": "Un uomo descritto come «ultranazionalista» ha ucciso sei persone, e a casa sua sono stati trovati altri tre corpi",
+   "link": "https://www.ilpost.it/2026/11/08/cosa-sappiamo-attentato-cracovia/",
+   "date": "2026-11-08T08:10:31.000Z",
    "source": "Il Post",
    "origin": "Il Post"
   },
@@ -3091,7 +3081,7 @@
    "date": "2026-11-07T21:41:41.000Z",
    "source": "elDiario.es",
    "author": "Joan Ridao",
-   "image": "https://static.eldiario.es/clip/5d90d600-5213-48f6-be05-7b38c0b5c2ea_16-9-discover-aspect-ratio_default_0.jpg",
+   "image": "https://static.eldiario.es/clip/71a8a311-32bc-424c-8287-52f13c1af4ba_16-9-discover-aspect-ratio_default_0.jpg",
    "origin": "elDiario.es · Opinión"
   },
   {
@@ -3101,7 +3091,7 @@
    "date": "2026-11-07T21:41:41.000Z",
    "source": "elDiario.es",
    "author": "Raquel Marcos Oliva",
-   "image": "https://static.eldiario.es/clip/00b15610-9f5c-4701-b236-1860bf6660c0_16-9-discover-aspect-ratio_default_0.jpg",
+   "image": "https://static.eldiario.es/clip/7f23c260-dd47-457b-88b7-5c7883ccf6d3_16-9-discover-aspect-ratio_default_0.jpg",
    "origin": "elDiario.es · Opinión"
   },
   {
@@ -3145,6 +3135,14 @@
    "origin": "elDiario.es · Opinión"
   },
   {
+   "title": "Il presidente di Israele ha scelto Gadi Eisenkot per formare un governo",
+   "summary": "Cioè il principale oppositore di Benjamin Netanyahu: l'incarico gli verrà dato formalmente domenica",
+   "link": "https://www.ilpost.it/2026/11/07/isaac-herzog-nomina-gadi-eisenkot-incarico-formare-governo/",
+   "date": "2026-11-07T19:51:14.000Z",
+   "source": "Il Post",
+   "origin": "Il Post"
+  },
+  {
    "title": "Kommentar: Die CDU entscheidet sich für Ilse Aigner",
    "summary": "Krone, Tobias",
    "link": "https://www.deutschlandfunk.de/kommentar-die-cdu-entscheidet-sich-fuer-ilse-aigner-100.html",
@@ -3172,6 +3170,14 @@
    "author": "Beppe Severgnini",
    "image": "https://dimages2.corriereobjects.it/files/image_572_429/uploads/2026/11/07/6aef4d80d0966.jpeg",
    "origin": "Corriere della Sera · Opinioni"
+  },
+  {
+   "title": "C’è stato un grave attacco nella piazza principale di Cracovia",
+   "summary": "Un uomo ha ucciso almeno sei persone sparando dalla sua auto: a casa sua sono stati trovati altri tre corpi",
+   "link": "https://www.ilpost.it/2026/11/07/sparatoria-piazza-del-mercato-cracovia-morti/",
+   "date": "2026-11-07T15:32:52.000Z",
+   "source": "Il Post",
+   "origin": "Il Post"
   },
   {
    "title": "Wie sollen Lehrer über die AfD reden?: Schule ist auch, wenn sich Meinungen bilden",
@@ -3238,8 +3244,8 @@
    "origin": "Corriere della Sera · Opinioni"
   },
   {
-   "title": "Non c’è un chiaro vincitore alle elezioni in Nuova Zelanda",
-   "summary": "Il centrodestra è in vantaggio, ma il risultato definitivo arriverà fra 20 giorni: sono andati bene i partiti piccoli",
+   "title": "Alle elezioni in Nuova Zelanda non c’è un chiaro vincitore",
+   "summary": "Per ora il blocco del centrodestra ha ottenuto più seggi, ma il risultato definitivo arriverà fra 20 giorni",
    "link": "https://www.ilpost.it/2026/11/07/risultati-elezioni-nuova-zelanda-2026/",
    "date": "2026-11-07T09:47:34.000Z",
    "source": "Il Post",
@@ -4892,51 +4898,6 @@
    "origin": "El Periódico de la Energía"
   },
   {
-   "title": "Quando sapremo i risultati delle elezioni di metà mandato negli Stati Uniti",
-   "summary": "Tra l'1 e le 3 arriveranno i primi dati interessanti, ma è probabile che si debba aspettare almeno la mattina di mercoledì per avere un'idea più precisa",
-   "link": "https://www.ilpost.it/2026/11/03/tempistiche-risultati-elezioni-midterm-2026/",
-   "date": "2026-11-03T13:38:05.000Z",
-   "source": "Il Post",
-   "origin": "Il Post"
-  },
-  {
-   "title": "Indian Refiner BPCL Buys U.S. WTI Crude Oil Cargo",
-   "summary": "Bharat Petroleum Corporation Limited (BPCL), one of the biggest Indian state-owned refiners, has bought 1 million barrels of U.S. West Texas Intermediate crude, trade sources told Reuters on Tuesday, as India looks to procure cheaper cargoes amid freight rates easing from the record highs hit in…",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Indian-Refiner-BPCL-Buys-US-WTI-Crude-Oil-Cargo.html",
-   "date": "2026-11-03T13:30:00.000Z",
-   "source": "OilPrice.com",
-   "author": "Tsvetana Paraskova",
-   "origin": "OilPrice.com"
-  },
-  {
-   "title": "Aktuelles Lexikon: Was ist Landfriedensbruch?",
-   "summary": "Straftatbestand der Gewalt gegen Menschen oder Sachen, der verurteilte Täter teuer zu stehen kommen kann – womöglich auch einige, die für die jüngsten Krawalle in deutschen Städten mitverantwortlich waren.",
-   "link": "https://www.sueddeutsche.de/meinung/aktuelles-lexikon-landfriedensbruch-schwerer-landfriedensbruch-gen-z-krawalle-li.3573435",
-   "date": "2026-11-03T13:12:39.000Z",
-   "source": "Süddeutsche Zeitung",
-   "author": "Joachim Käppner",
-   "image": "https://www.sueddeutsche.de/2026/11/03/d7c3428e-cef3-4bce-bbde-e54945d75734.jpg?rect=222%2C0%2C3556%2C2667&width=1000&fm=jpg&q=60",
-   "origin": "Süddeutsche Zeitung · Meinung"
-  },
-  {
-   "title": "L’ONU lascerà il territorio conteso del Sahara occidentale",
-   "summary": "La sua missione di pace più longeva in Africa è finita per disaccordi nel Consiglio di Sicurezza, e per il Marocco è una vittoria",
-   "link": "https://www.ilpost.it/2026/11/03/ritiro-onu-sahara-occidentale/",
-   "date": "2026-11-03T13:09:45.000Z",
-   "source": "Il Post",
-   "origin": "Il Post"
-  },
-  {
-   "title": "‘Midterms’ 2026: ¿se encamina la segunda Administración Trump hacia un Estado dual?",
-   "summary": "Una derrota del trumpismo en las ‘midterms’ supondría una reducción en su capacidad para transformar los Estados Unidos en un estado autoritario pleno Temas principal: Estados Unidos Leer artículo completo",
-   "link": "https://www.elsaltodiario.com/estados-unidos/midterms-2026-se-encamina-segunda-administracion-trump-un-estado-dual?utm_source=feed",
-   "date": "2026-11-03T12:30:00.000Z",
-   "source": "El Salto",
-   "author": "Lorién Gómez",
-   "image": "https://www.elsaltodiario.com/uploads/fotos/h300/66a404ac/trump-_1_.jpg?v=63960932490",
-   "origin": "El Salto · Opinión"
-  },
-  {
    "title": "Vastly different fortunes for BESS in Belgium and Germany’s capacity market auctions",
    "summary": "Battery storage projects have won nearly 40% of the capacity in Belgium’s latest capacity market (CM) auction results, while Germany’s first has all gone to gas, paying nearly eight times more than Belgium in the process.",
    "link": "https://www.energy-storage.news/vastly-different-fortunes-for-bess-in-belgium-and-germanys-capacity-market-auctions/",
@@ -4945,25 +4906,6 @@
    "author": "Cameron Murray",
    "image": "https://www.energy-storage.news/wp-content/uploads/2026/11/Screenshot-2026-11-03-112916-768x479.png",
    "origin": "Energy-Storage.news"
-  },
-  {
-   "title": "Il governo britannico non è mai stato così vicino a scusarsi per la tratta degli schiavi",
-   "summary": "Potrebbe succedere mentre re Carlo è in viaggio ai Caraibi, ma per ora di risarcimenti non se ne parla",
-   "link": "https://www.ilpost.it/2026/11/03/viaggio-re-carlo-caraibi-risarcimenti-schiavismo/",
-   "date": "2026-11-03T11:45:21.000Z",
-   "source": "Il Post",
-   "origin": "Il Post"
-  },
-  {
-   "title": "Key takeaways from All Energy Australia 2026",
-   "summary": "The outlook for Australia’s renewable energy transition appears positive with supportive government policies and renewable energy targets, a surge in battery installations, and a strong pipeline of grid-scale solar and storage projects helping to fuel confidence.",
-   "link": "https://www.pv-magazine.com/2026/11/03/batteries-are-big-at-all-energy-australia-2026/",
-   "date": "2026-11-03T11:14:39.000Z",
-   "source": "pv magazine",
-   "author": "David Carroll",
-   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/10/all-energy-2026-crowd--scaled.jpg",
-   "imgChecked": true,
-   "origin": "pv magazine"
   },
   {
    "title": "BW ESS puts Europe’s largest BESS into commercial operation in the UK",
@@ -5126,16 +5068,6 @@
    "origin": "New Statesman"
   },
   {
-   "title": "Portugal makes grid-forming mandatory for large-scale BESS and launches 1GW tender",
-   "summary": "IPP Sonnedix has put two solar-plus-storage projects into commercial operation in Portugal, coinciding with the government moving to use BESS to strengthen the reliability of its electricity grid.",
-   "link": "https://www.energy-storage.news/portugal-makes-grid-forming-mandatory-for-large-scale-bess-and-launches-1gw-tender/",
-   "date": "2026-10-29T11:23:29.000Z",
-   "source": "Energy-Storage.news",
-   "author": "Cameron Murray",
-   "image": "https://www.energy-storage.news/wp-content/uploads/2026/10/image-28-768x513.png",
-   "origin": "Energy-Storage.news"
-  },
-  {
    "title": "US midterms: Is this a referendum on Trump?",
    "summary": "His net approval rating is at an all time low",
    "link": "https://www.newstatesman.com/podcasts/politics-podcast/2026/10/us-midterms-is-this-a-referendum-on-trump",
@@ -5210,6 +5142,84 @@
    "origin": "Aeon"
   },
   {
+   "title": "Cop31 must deliver climate progress that people can see is real, host says",
+   "summary": "High-stakes talks involving 190 countries begin on Monday as world grapples with El Niño supercharged by fossil fuels The Cop31 summit must produce progress, “a tangible outcome ... that people can see is real”, its host has said as scores of world leaders and representatives of close to 190…",
+   "link": "https://www.theguardian.com/environment/2026/nov/08/cop31-climate-summit-deliver-progress-real-host-says",
+   "date": "2026-11-08T13:24:00.000Z",
+   "source": "The Guardian",
+   "image": "https://i.guim.co.uk/img/media/5864e1f794c25f06dace50bf42918bce1e0f72db/174_0_6003_4803/master/6003.jpg?width=700&quality=85&auto=format&fit=max&s=15781ae9a454770c3e9a59500f40c757",
+   "origin": "The Guardian · World"
+  },
+  {
+   "title": "EU-Entwicklungsgelder: Europa hätte eine Riesenchance. Und wird sie wahrscheinlich nicht nutzen",
+   "summary": "Entwicklungsgelder sind nicht populär und meist erstes Opfer jeder Budgetverhandlung, demnächst wohl auch in der EU. In der neuen Welt-Unordnung ist das grob fahrlässig.",
+   "link": "https://www.sueddeutsche.de/meinung/europaeische-union-eu-entwicklungshilfe-kommentar-geopolitik-li.3575015",
+   "date": "2026-11-08T13:23:34.000Z",
+   "source": "Süddeutsche Zeitung",
+   "author": "Jan Diesteldorf",
+   "image": "https://www.sueddeutsche.de/2026/04/14/ed8bc176-c742-47bf-9640-531515ba11f1.jpg?rect=5%2C0%2C3868%2C2901&width=1000&fm=jpg&q=60",
+   "origin": "Süddeutsche Zeitung · Meinung"
+  },
+  {
+   "title": "Antisemitismus-Debatte: Der Fall Vanessa Emde ist jetzt eine Chance für die Berliner Linke",
+   "summary": "Das Verhalten der neu gewählten Abgeordneten ermöglicht es der Partei nun, sie auszuschließen und damit ein Zeichen zu setzen. Nur tun muss sie es.",
+   "link": "https://www.sueddeutsche.de/meinung/vanessa-emde-die-linke-berlin-ausschluss-antisemitismus-kommentar-li.3576920",
+   "date": "2026-11-08T13:22:32.000Z",
+   "source": "Süddeutsche Zeitung",
+   "author": "Christian Zaschke",
+   "image": "https://www.sueddeutsche.de/2026/11/08/fd7fe633-c2de-4e04-bc3c-4ba7892cebec.jpg?rect=158%2C0%2C2508%2C1881&width=1000&fm=jpg&q=60",
+   "origin": "Süddeutsche Zeitung · Meinung"
+  },
+  {
+   "title": "Religionsfreiheit: Welche Grenzen gelten für den Glauben?",
+   "summary": "Die Religionsfreiheit ist ein Menschenrecht, aber ihre Ausdeutung hoch umstritten. Ob nun ein Kruzifix im Klassenzimmer, eine Richterin mit Kopftuch oder Gebetswachen gegen Schwangerschaftsabbrüche: Wir diskutieren über aktuelle Konfliktlinien. Miller, Simone",
+   "link": "https://www.deutschlandfunkkultur.de/sein-und-streit-08-11-2026-100.html",
+   "date": "2026-11-08T12:05:00.000Z",
+   "source": "Deutschlandfunk Kultur",
+   "image": "https://bilder.deutschlandfunk.de/3c/82/4e/9b/3c824e9b-b40f-4d4f-8e12-260e8346f231/kruzifix-im-klassenzimmer-100-1920x1920.jpg",
+   "origin": "Deutschlandfunk Kultur · Philosophie"
+  },
+  {
+   "title": "Healthcare, tariffs – but not Trump impeachment: Democrats chart next two years of power",
+   "summary": "Midterms success gives party potent leverage over Trump – expect tough campaigns of investigating and lawmaking “Costs, chaos, corruption”: after almost two years spent relentlessly criticizing Donald Trump for failing to address those three, broad political concerns, Democrats won a monumental…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/08/democrats-congress-trump-midterms",
+   "date": "2026-11-08T12:00:40.000Z",
+   "source": "The Guardian",
+   "author": "Chris Stein in Washington",
+   "image": "https://i.guim.co.uk/img/media/58cfa4b57d0fd5f376a2f9b4536934f809a7e540/654_0_3333_2668/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=4e7ffbbc0c02b7db4c56a5f1b1b74466",
+   "origin": "The Guardian · World"
+  },
+  {
+   "title": "How African philosophies inspired a new approach to staging film festivals in Manchester",
+   "summary": "See My World, an event highlighting the pan-African thought via film, poetry and dance, builds on momentum sparked by local activists and creatives African philosophies including exploring how lessons from the past can shape the present and near future have inspired a film festival coming to…",
+   "link": "https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester",
+   "date": "2026-11-08T12:00:39.000Z",
+   "source": "The Guardian",
+   "author": "Chris Osuh Community affairs correspondent",
+   "image": "https://i.guim.co.uk/img/media/bcb07f839060d7b54330feb02b27ea2cae25f696/62_0_2371_1897/master/2371.jpg?width=700&quality=85&auto=format&fit=max&s=8654595ccf5516ad30142841d973f554",
+   "origin": "The Guardian · World"
+  },
+  {
+   "title": "How the story of ‘the girl of 100 portraits’ inspired two books",
+   "summary": "Luc Corlouër made ‘deal’ with Prix Goncourt winner Philippe Jaenada over his research into model Louise Cansot, murdered in Paris in 1949 For almost eight decades the artists’ model Louise Cansot, the subject of the novel winning France’s most prestigious literary prize this year, was one of…",
+   "link": "https://www.theguardian.com/books/2026/nov/08/louise-cansot-paris-model-prix-goncourt-phillipe-jaenada-luc-corlouer",
+   "date": "2026-11-08T11:00:38.000Z",
+   "source": "The Guardian",
+   "author": "Kim Willsher",
+   "image": "https://i.guim.co.uk/img/media/64568384f0ba20fb1fa5662cf34b808631acc22a/0_205_1343_1074/master/1343.jpg?width=700&quality=85&auto=format&fit=max&s=6044400744e47594b697ccf08480b26a",
+   "origin": "The Guardian · World"
+  },
+  {
+   "title": "How the story of ‘the girl of 100 portraits’ inspired two books",
+   "summary": "Luc Corlouër made ‘deal’ with Prix Goncourt winner Philippe Jaenada over his research into model Louise Cansot, murdered in Paris in 1949 For almost eight decades the artists’ model Louise Cansot, the subject of the novel winning France’s most prestigious literary prize this year, was one of…",
+   "link": "https://www.theguardian.com/books/2026/nov/08/louise-cansot-paris-model-prix-goncourt-phillipe-jaenada-luc-corlouer",
+   "date": "2026-11-08T11:00:38.000Z",
+   "source": "The Guardian",
+   "author": "Kim Willsher",
+   "image": "https://i.guim.co.uk/img/media/64568384f0ba20fb1fa5662cf34b808631acc22a/0_205_1343_1074/master/1343.jpg?width=700&quality=85&auto=format&fit=max&s=6044400744e47594b697ccf08480b26a",
+   "origin": "The Guardian · Art and design"
+  },
+  {
    "title": "Klimakonferenz: Fürs 1,5-Grad-Ziel ist es leider zu spät",
    "summary": "Nie hatte es die Klimadiplomatie so schwer wie derzeit. Allianzen der Willigen sind besser als nichts – aber verbindliche Ziele sind außer Reichweite.",
    "link": "https://www.sueddeutsche.de/meinung/cop31-antalya-klimakonferenz-1-5-grad-ziel-kommentar-li.3575595",
@@ -5246,6 +5256,14 @@
    "source": "BBC News",
    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b00d/live/84d82e90-dafc-11f1-a701-fddedf244c16.jpg",
    "origin": "BBC News · World"
+  },
+  {
+   "title": "Più di 50 persone sono state uccise nelle ultime 24 ore nella guerra civile in Yemen",
+   "summary": "",
+   "link": "https://www.ilpost.it/2026/11/08/50-persone-uccise-guerra-civile-yemen-houthi/",
+   "date": "2026-11-08T09:11:14.000Z",
+   "source": "Il Post",
+   "origin": "Il Post"
   },
   {
    "title": "Neues Klimazeitalter, schrumpfende Wasser­ressourcen und die Bauchlandung des Aberglaubens",
@@ -5452,6 +5470,14 @@
    "origin": "OilPrice.com"
   },
   {
+   "title": "Trump ha offerto il ruolo di portavoce della Casa Bianca a Dana White, il presidente della lega di arti marziali miste UFC",
+   "summary": "",
+   "link": "https://www.ilpost.it/2026/11/07/donald-trump-portavoce-casa-bianca-dana-white/",
+   "date": "2026-11-07T19:45:37.000Z",
+   "source": "Il Post",
+   "origin": "Il Post"
+  },
+  {
    "title": "How did AIPAC-backed candidates fare in the US midterm elections?",
    "summary": "Many candidates the pro-Israel group backed still won, but most of the money it spent went to candidates who lost.",
    "link": "https://www.aljazeera.com/news/2026/11/7/how-did-aipac-backed-candidates-fare-in-the-us-midterm-elections?traffic_source=rss",
@@ -5517,6 +5543,14 @@
    "author": "Jennifer Rankin in Brussels and Sammy Gecsoyler",
    "image": "https://i.guim.co.uk/img/media/a82621f2173bcdb47b29018958e54222130414c4/291_0_2520_2016/master/2520.jpg?width=700&quality=85&auto=format&fit=max&s=f76b6e6d6b2b1ff667c3c5d4b845373b",
    "origin": "The Guardian · Energy"
+  },
+  {
+   "title": "Should AI companies pay for the journalism they use?",
+   "summary": "Publishers say AI chatbots are using their reporting to answer readers' questions while sending back less traffic and less money. Should the companies that build these tools pay for the journalism they rely on?",
+   "link": "https://www.dw.com/en/should-ai-companies-pay-for-the-journalism-they-use/a-79884854?maca=en-rss-en-world-4025-xml-mrss",
+   "date": "2026-11-07T15:14:00.000Z",
+   "source": "DW",
+   "origin": "DW"
   },
   {
    "title": "Autunno in giallo. Carofiglio, De Giovanni, Giménez-Bartlett",
@@ -6467,15 +6501,6 @@
    "origin": "Süddeutsche Zeitung · Meinung"
   },
   {
-   "title": "US midterm results spark fears in Israel over future of two countries' ties",
-   "summary": "Staunch US support of Israel has been raised as one of the reasons why Republicans performed so badly.",
-   "link": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-06T13:23:44.000Z",
-   "source": "BBC News",
-   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5a34/live/c88c2b10-d9c5-11f1-a701-fddedf244c16.jpg",
-   "origin": "BBC News · World"
-  },
-  {
    "title": "Facility Parco Agrisolare, il Gse avvia il soccorso istruttorio",
    "summary": "Il Gse ha avviato il soccorso istruttorio per i progetti della Facility Parco Agrisolare considerati “non idonei” in seguito agli esiti delle istruttorie concluse il 31 agosto 2026 e pubblicate il 13 ottobre. Lo ha comunicato lo stesso Gestore in una nota del 5 novembre, precisando che l’elenco dei…",
    "link": "https://www.qualenergia.it/pro/articoli-pro/facility-parco-agrisolare-gse-avvia-soccorso-istruttorio/",
@@ -6519,16 +6544,6 @@
    "source": "QualEnergia",
    "author": "Giulio Meneghello",
    "origin": "QualEnergia"
-  },
-  {
-   "title": "Most Europeans want action to tackle climate crisis but not at any cost, poll shows",
-   "summary": "YouGov survey finds support for tree planting and emissions taxes but opposition to air travel and fuel levies Europe live – latest updates Europeans believe human-made climate change is real, a survey has shown, with most feeling action must be taken soon – as long as they do not have to sacrifice…",
-   "link": "https://www.theguardian.com/world/2026/nov/06/europeans-want-action-climate-crisis-yougov-poll",
-   "date": "2026-11-06T12:27:54.000Z",
-   "source": "The Guardian",
-   "author": "Jon Henley Europe correspondent",
-   "image": "https://i.guim.co.uk/img/media/be71ae395bd4e392d9a022f94aa37e4f2ac6e1d0/785_0_4124_3301/master/4124.jpg?width=700&quality=85&auto=format&fit=max&s=ad44ddb8591722624fb0204c4e7ad45d",
-   "origin": "The Guardian · World"
   },
   {
    "title": "World’s largest liquid-air storage facility comes online in China",
@@ -6994,9 +7009,9 @@
   {
    "title": "GridPoint targets 2 GW of battery storage across 20,000+ commercial sites as U.S. power demand surges",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNZHNuQ201MG01VkdianFaRWNxajlnOFFuVklIdUpWM21QNC0xUnJadjh6aG5WekFDVy0zcTBET3g2LVJ4clYyMzZ5UGlXcDlvZEdqRmlKOTd5WjdGZjZjbjF4THNCMXNjZlE2Tk0yZ2N6eTFCa2dtaEItN09CblNxckxUbWx1NGxzWGY1cFUzYU13U3E2RzlGQWhxMDFDeU9KLTBuSzBRVVVRNFdCVldDeXZNdVNKMTR3Y1lNb1l1LW9aNFB4Qy04VHhJdndCQzBZLXh4MXBEMnN6bFk4Z04wY1NwNVMwemg3d00zaVRnYkEyUjdzVllMMHBtWDJkTENM0gGGAkFVX3lxTFBtc0d5X0t2VnhuR09oOURQUzRQeFZmaXZ3Z3JVckZMZHJSY1pKT2hMUWQxOW1NOV9STXhUUE9SRkFiSGR0Rkx4UEdsUjhQNGF0U3ZKUE1jQU42Q1dhVURybGhUQ3ppNWVVMHU4TlM2VEl3UXNwMElWNTVPbmNtaHIxZjlRaWlwTEotWExWZHF2SmtWdW90UklhQllqNmhJZDJfY05oRGwzNWw1OEdUcjc4TjFIWGg2NUN0R1p2M1Q4WUp5a0lsYlFWNFoxM0VCcnBqRlFKNG16cV9ERWJON2stR0lGU0oweHdXZS1zZkxRN2M4azVGTEJiS2lLeUxjMU1IWEFjNmc?oc=5",
-   "date": "2026-11-05T19:18:48.000Z",
-   "source": "The Manila Times",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPbWN6TDlKMU5JVHhrYjQtdllRdzc0QXE5NERuTGZLYVRfckJPaU83NmliOVhiSlFaVUpDRGNuR25vR1BEdlhyU0szR21PanRWRDU3dlBpelF6ZUVTbU5XenhjMy1FSTNXaFNLenNyQXRSRG5ZRTBXUk5wVGN0a3FQVjRTTTFySmczM0phT1pIbUVPWDgtek5mSDdXRGtrX2VPQk9uaTV2WGRmN29hWldWdTRxNXdVV1l4ZTk1VzdGUUpkQk5INXlPS1NhTzdYVGZ4VGtNX2t0R3c4SE1BWDBGa3lFNml2WXpmTFBqTXFGNA?oc=5",
+   "date": "2026-11-05T19:29:16.000Z",
+   "source": "markets.businessinsider.com",
    "origin": "Google News · Power markets"
   },
   {
@@ -7046,16 +7061,6 @@
    "source": "Domani",
    "author": "Maria Tornielli",
    "image": "https://immagini.editorialedomani.it/version/c:NzNjOWY3NTMtNGU0OS00:MmU2ZDdjMzctNjJhYi00/austria-music-leonard-cohen.jpg?w=900",
-   "origin": "Domani"
-  },
-  {
-   "title": "Grazie per il ballo, Leonard Cohen: riscoprire il suo album postumo",
-   "summary": "Thanks for the Danc e , il disco uscito nel 2019 grazie al figlio del cantante, è il suo testamento spirituale e artistico. Ora è anche il titolo del libro di Mondadori che raccoglie le sue canzoni e poesie: un’opera attesa da tutti i coheniani d’Italia",
-   "link": "https://www.editorialedomani.it/idee/cultura/grazie-ballo-leonard-cohen-album-postumo-dieci-anni-morte-kxu8ti9l",
-   "date": "2026-11-05T18:08:00.000Z",
-   "source": "Domani",
-   "author": "COSIMO DAMIANO DAMATO",
-   "image": "https://immagini.editorialedomani.it/version/c:OTYwZDMzNDctMzdlMC00:MjE5M2VjMzMtMWU3OS00/file-france-leonard-cohen-obit.jpg?w=900",
    "origin": "Domani"
   },
   {
@@ -8890,6 +8895,15 @@
    "origin": "New Statesman"
   },
   {
+   "title": "Cómo afecta el exceso de pantallas antes de los cinco años al desarrollo del lenguaje",
+   "summary": "El lenguaje en los más pequeños se desarrolla poniéndolo en práctica. Sin embargo, el uso intensivo de pantallas puede estar sustituyendo estas oportunidades de interacción.",
+   "link": "https://theconversation.com/como-afecta-el-exceso-de-pantallas-antes-de-los-cinco-anos-al-desarrollo-del-lenguaje-294714",
+   "date": "2026-11-03T16:58:47.000Z",
+   "source": "The Conversation España",
+   "image": "https://images.theconversation.com/files/768256/original/file-20261026-52-3jp87d.jpg?ixlib=rb-4.1.1&rect=11%2C0%2C3476%2C2317&q=45&auto=format&w=1050&h=700&fit=crop",
+   "origin": "The Conversation España"
+  },
+  {
    "title": "Midterms are little more than a national poll",
    "summary": "The next two years belong to Trump",
    "link": "https://www.newstatesman.com/international-content/only-in-america/2026/11/midterms-are-little-more-than-a-national-poll",
@@ -9114,16 +9128,6 @@
    "origin": "WELT · Debatte"
   },
   {
-   "title": "Bundesregierung: Der Fall Bas kann als Mahnung zu mehr Mitmenschlichkeit dienen",
-   "summary": "Die zurückgetretene SPD-Vorsitzende lässt in einem Fernsehinterview einen Blick in ihre Seele zu und räumt auch Fehler ein. Beides ist zu begrüßen.",
-   "link": "https://www.sueddeutsche.de/meinung/baerbel-bas-spd-ruecktritt-trauer-kritik-li.3573433",
-   "date": "2026-11-03T12:59:02.000Z",
-   "source": "Süddeutsche Zeitung",
-   "author": "Georg Ismar",
-   "image": "https://www.sueddeutsche.de/2026/11/02/0330fb94-b4e5-43ff-96cb-06e0c5a52631.jpg?rect=357%2C0%2C3285%2C2464&width=1000&fm=jpg&q=60",
-   "origin": "Süddeutsche Zeitung · Meinung"
-  },
-  {
    "title": "GasIndustrial reclama al próximo Gobierno medidas urgentes y el estatuto del consumidor gasintensivo",
    "summary": "GasIndustrial ha celebrado su Foro Industrial del Gas 2026 bajo el lema “Gas competitivo, industria con futuro. Por el Estatuto del Consumidor Gasintensivo”.",
    "link": "https://elperiodicodelaenergia.com/gasindustrial-reclama-al-proximo-gobierno-medidas-urgentes-y-el-estatuto-del-consumidor-gasintensivo/",
@@ -9131,14 +9135,6 @@
    "source": "El Periódico de la Energía",
    "image": "https://cdn.elperiodicodelaenergia.com/2026/11/6ae9d73c55aafb16e3f5db66.jpg",
    "origin": "El Periódico de la Energía"
-  },
-  {
-   "title": "Record 3% LNG Contraction Hands Winter Pricing Power to Flexible Cargoes",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcFdENnBOczBsczdCeEVnZWRHenV4SFJkMjFaUzQtV1piRDZDa1pmY1hmbjlvTWV4TXZCVExmdkF3aVRYaHN3aTI5c0dQdVNkR3NtREVPai1Ba2ZPQnZqelZmUmE3OUNlU1ZqLXUweUtZcGUzdWVPWm1yX3IxVDlhMkpjNjhEcG1lNVVudFM1Ui1JTEZRdklITlotZEFEd3V2QklXajkwcmV2Zw?oc=5",
-   "date": "2026-11-03T12:37:11.000Z",
-   "source": "Crux Investor",
-   "origin": "Google News · Energy"
   },
   {
    "title": "BESS for EV charging: why sites need it, how it works and when to install",
@@ -9149,27 +9145,6 @@
    "author": "Liam Critchley",
    "image": "https://www.energy-storage.news/wp-content/uploads/2026/01/nuvve-EV-charger-768x500.jpg",
    "origin": "Energy-Storage.news"
-  },
-  {
-   "title": "Germany awards 288 MW of solar in rooftop tender at average price of €0.0967/kWh",
-   "summary": "Germany’s latest rooftop solar tender received 177 bids totaling 347 MW, with 108 bids representing 208 MW ultimately awarded contracts.",
-   "link": "https://www.pv-magazine.com/2026/11/03/germany-awards-288-mw-of-solar-in-rooftop-tender-at-average-price-of-e0-0967-kwh/",
-   "date": "2026-11-03T11:57:14.000Z",
-   "source": "pv magazine",
-   "author": "Emiliano Bellini",
-   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/07/Wirsol_PMT_Flachdach.jpg",
-   "imgChecked": true,
-   "origin": "pv magazine"
-  },
-  {
-   "title": "UK’s most polluting power plant could power country’s largest AI datacentre",
-   "summary": "Drax’s FTSE 250 owner strikes £20bn deal to build infrastructure in what it says is site’s ‘next chapter’ Britain’s most polluting power plant could soon power the country’s largest datacentre under a £20bn deal to build AI infrastructure on the site of the Drax power plant in North Yorkshire. The…",
-   "link": "https://www.theguardian.com/business/2026/nov/03/uk-drax-power-station-ai-datacentre",
-   "date": "2026-11-03T11:55:28.000Z",
-   "source": "The Guardian",
-   "author": "Jillian Ambrose Energy correspondent",
-   "image": "https://i.guim.co.uk/img/media/4d21e0d98938a7f32ce928bb10cea2221b6aa2d5/0_0_5600_4480/master/5600.jpg?width=700&quality=85&auto=format&fit=max&s=4713a3ac830b140c589d93d1c5a37111",
-   "origin": "The Guardian · Energy"
   },
   {
    "title": "More than £450m worth of cocaine hidden in blocks of cheese",
@@ -9671,15 +9646,6 @@
    "origin": "Energy-Storage.news"
   },
   {
-   "title": "Flessibilità, ecco gli interventi previsti nella legge di bilancio per le FER",
-   "summary": "Nell’ambito della clausola di salvaguardia nazionale il Governo mette nero su bianco 1,2 miliardi di contributi in conto capitale per gli impianti fotovoltaici del FER X, un simil \"energy release\" per le PMI e nuovi fondi per la manutenzione e il recupero dei bacini idroelettrici L'articolo…",
-   "link": "https://www.rinnovabili.it/energia/infrastrutture/legge-di-bilancio-2027-rinnovabili-ndc/",
-   "date": "2026-11-02T12:33:20.000Z",
-   "source": "Rinnovabili.it",
-   "author": "stefania",
-   "origin": "Rinnovabili.it"
-  },
-  {
    "title": "Beaches, Beatles and a broken marriage: how Wilhelmina Barns-Graham became a radical art icon",
    "summary": "The artist who was inspired by Swiss glaciers, the Vietnam war and her own divorce was sidelined from St Ives’ art history – but finally has a major retrospective at Tate At the centre of Tate St Ives’ newly opened retrospective of the British modernist Wilhelmina Barns-Graham, her monumental…",
    "link": "https://www.theguardian.com/artanddesign/2026/nov/02/beaches-beatles-broken-marriage-wilhelmina-barns-graham-art-tate-st-ives",
@@ -9688,14 +9654,6 @@
    "author": "Kat Lister",
    "image": "https://i.guim.co.uk/img/media/6a3f2185dd810a295cd5df2d5459bc8feba82b51/0_0_3334_2668/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=bd0284883ae9506edbf95fa0a696d9d6",
    "origin": "The Guardian · Art and design"
-  },
-  {
-   "title": "La Palma recupera el 100% del suministro eléctrico tras casi cuatro horas de apagón general",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSmRDQXY1R2tzeHJrS1pxTmlJaEs5LVA1NWxDeml1M3drNlAycmhOUmx3bS1saWFGUDQ1UU1JSVRXQXpVc1NrNGRFRFhrNDJKZnIxWmkwMnRkczYyMXRNSUtIbXVBSEVlQTdraER6QUhETVhGTVR4RWhxX1Q5YV9veldaXzZxUlZEVVHSAY8BQVVfeXFMTWRvLW9NTlgzeEVWZS1mYjlMcHNqWURSZS1vTmREbWd1UmJ6Qm0tX05INVA0T3k2ZUppeW1Bcy1uVmg4RUR5N0NVUWotN19NNG04VzZMSDREWDF0NkhHLU03UGNaMVNNMGJRd2VYTjdWcHlWVU0xeDl6UXhiOXhHOVFlX1JhcGs2YXZkSkJTekU?oc=5",
-   "date": "2026-11-02T11:40:41.000Z",
-   "source": "Diario de Avisos",
-   "origin": "Google News · Energía"
   },
   {
    "title": "Jo Marchant: In search of now",
@@ -10803,6 +10761,69 @@
    "origin": "Aeon"
   },
   {
+   "title": "‘3 more LNG terminals to be built in Maheshkhali to address energy crisis’",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wWkpUa2hWbnNZOV9ha0pqNDFPS1FVQ1hnTXNmM2V2eUVVdVM1NEVpbF9ZQVFXY3N3ckJLOXZNVnFpZkdyc3dhNXd0NjJtUQ?oc=5",
+   "date": "2026-11-08T13:30:18.000Z",
+   "source": "Bangladesh Sangbad Sangstha (BSS)",
+   "origin": "Google News · Energy"
+  },
+  {
+   "title": "Florida Woman Tells Police She Wasn't \"Drunk Enough\" to Be Arrested",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVHNkOFVPX1l0Y0ZXelN3VWN1alRsNFlGbV92T3h2dk1JV1dCZjVnMXo0TTJ1SUVVUzVCallJSXcxTWtWYWNJejRRNlptQ2E2MVBwS1hvNnBSU1ZjM3V2QzFkYnF2NEJNUDg2RjFBbkdISlZrbi1iaWRoSjFBU2ItNmRNZlFtbTAwVXRPMQ?oc=5",
+   "date": "2026-11-08T13:05:33.000Z",
+   "source": "Yahoo",
+   "origin": "Google News · Florida Man"
+  },
+  {
+   "title": "‘We feel the love’: Epstein survivors overwhelmed by messages of support at pop-up art exhibition",
+   "summary": "Visitors to a touring show drawing attention to Epstein’s crimes have left thousands of ‘powerful’ notes – and survivors say it means a great deal When Danielle Bensky first went to The Donald J Trump and Jeffrey Epstein Memorial Reading Room, she didn’t know what to expect. “What happens if I walk…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/08/jeffrey-epstein-survivors-exhibition",
+   "date": "2026-11-08T13:00:41.000Z",
+   "source": "The Guardian",
+   "author": "Victoria Bekiempis",
+   "image": "https://i.guim.co.uk/img/media/78ece6a61cf423ac18473ef637cd34631b86a206/693_0_6925_5540/master/6925.jpg?width=700&quality=85&auto=format&fit=max&s=da9a4f3cb088bcb5f149d2de2aba01cb",
+   "origin": "The Guardian · Art and design"
+  },
+  {
+   "title": "Incognite Ia e petrolio, dibattito sulla Manovra: la settimana dei mercati",
+   "summary": "Tre i catalizzatori: il boom degli investimenti in intelligenza artificiale e i possibili contraccolpi post midterm; le forti oscillazioni del greggio. In Italia via alle audizioni preliminari sulla Legge di Bilancio",
+   "link": "https://www.repubblica.it/economia/2026/11/08/news/mercati_incognite_ia_e_petrolio_il_dibattito_sulla_finanziaria_i_temi_della_settimana-425708350/?rss",
+   "date": "2026-11-08T13:00:00.000Z",
+   "source": "la Repubblica",
+   "image": "https://www.repstatic.it/content/nazionale/img/2026/11/08/123911958-f70bb09d-d95c-4c4e-8026-925670c15011.jpg",
+   "origin": "la Repubblica · Economia"
+  },
+  {
+   "title": "The efficiency trap: why optimising everything can backfire, badly",
+   "summary": "From roundabouts to the stock market, relentless streamlining could be making the world more dangerous We have all been there: packed shoulder to shoulder on the train while the person beside us coughs and sneezes. A protective flu jab offers some reassurance, but so does the thought that there…",
+   "link": "https://www.theguardian.com/books/2026/nov/08/the-efficiency-trap-why-optimising-everything-can-backfire-badly",
+   "date": "2026-11-08T12:00:39.000Z",
+   "source": "The Guardian",
+   "author": "Steven Strogatz and Alex Townsend",
+   "image": "https://i.guim.co.uk/img/media/e68bbef8dbe92c67f604bdd86917dcb9368a1049/0_349_1847_1476/master/1847.jpg?width=700&quality=85&auto=format&fit=max&s=a4ec168c7d895a73787d443dab38e7c0",
+   "origin": "The Guardian · Books"
+  },
+  {
+   "title": "QatarEnergy emerges as top US LNG buyer amid Hormuz crisis",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jNkFuRUhTVGNfX0tCR2wzenFIVlk1OG92Yk9wa2s5MDhQZjM4b0NUai1zY0RkZlc0LTdQNFAxdmJXdFladWQxUnpRYXREc1BJdmNFRldyUXhCd3pSYkozZ2o1V2NFa09sbFVz?oc=5",
+   "date": "2026-11-08T11:48:13.000Z",
+   "source": "Banglanews24",
+   "origin": "Google News · Energy"
+  },
+  {
+   "title": "Cop31: what is at stake at the UN climate summit and what can it achieve?",
+   "summary": "Delegates from more than 190 countries are gathering in Turkey for climate talks, but the US will be absent As the planet faces unprecedented human-caused global heating, heads of government are meeting for the next fortnight for the latest round of climate talks. We ask why it matters and what is…",
+   "link": "https://www.theguardian.com/environment/2026/nov/08/cop31-what-is-at-stake-at-the-un-climate-summit-and-what-can-it-achieve",
+   "date": "2026-11-08T11:00:38.000Z",
+   "source": "The Guardian",
+   "author": "Fiona Harvey Environment editor",
+   "image": "https://i.guim.co.uk/img/media/d6b690af57abc6ab43cbd2a94e2f483c2480349a/18_0_4233_3386/master/4233.jpg?width=700&quality=85&auto=format&fit=max&s=3158c6f0dbe7df573f5719e026d1d18d",
+   "origin": "The Guardian · World"
+  },
+  {
    "title": "Democrats’ congressional win could strengthen Ukraine’s hand against Russia",
    "summary": "Ukraine hopes for more US support but faces uncertainty over Trump’s peace efforts and continued military aid.",
    "link": "https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss",
@@ -11376,26 +11397,6 @@
    "origin": "pv magazine Deutschland"
   },
   {
-   "title": "Trump’s stillborn diesel deal: Why Russian oil tankers are not heading to the US",
-   "summary": "The first oil tankers scheduled to deliver Russian diesel to the US under a deal between President Donald Trump and his Russian counterpart Vladimir Putin have changed course and are no longer heading toward the US coast. It spells the end of an agreement announced with great fanfare before the…",
-   "link": "https://www.france24.com/en/americas/20261106-trump-stillborn-diesel-deal-why-russian-oil-tankers-are-not-heading-to-the-us",
-   "date": "2026-11-06T13:38:36.000Z",
-   "source": "France 24",
-   "author": "Sébastian SEIBT",
-   "image": "https://s.france24.com/media/display/583fe45e-d93a-11f1-9d4e-bf1914cabd52/w:1024/p:16x9/image-tanker-diesel3.png",
-   "origin": "France 24"
-  },
-  {
-   "title": "Tech giants lose $1 trillion in one day after Democrats victory in midterms",
-   "summary": "Trillions of dollars have been wiped off the stock value of major tech firms in the US, Europe and Asia. Investors appear worried about the possibility of an AI slowdown and tougher regulation as Democrats won the midterms in the US. Some of the Democratic candidates had expressed their opposition…",
-   "link": "https://www.france24.com/en/video/20261106-tech-giants-lose-1-trillion-in-one-day-after-democrats-victory-in-midterms",
-   "date": "2026-11-06T13:15:27.000Z",
-   "source": "France 24",
-   "author": "FRANCE24",
-   "image": "https://s.france24.com/media/display/6e1d77ee-d9dc-11f1-9d72-695cb59fade5/w:1024/p:16x9/capture-4f9220cf.jpg",
-   "origin": "France 24"
-  },
-  {
    "title": "4,2 Milliarden Euro weniger Haushaltsbelastung durch EEG-Anlagen als geplant",
    "summary": "Die sinkenden Kosten sind unter anderem damit begründet, dass alte Photovoltaik- und Windkraftanlagen mit hoher Förderung aus dem EEG gefallen sind. Stärker ist jedoch der Effekt der stark gestiegenen Strompreise.",
    "link": "https://www.pv-magazine.de/2026/11/06/42-milliarden-euro-weniger-haushaltsbelastung-durch-eeg-anlagen-als-geplant/",
@@ -11403,16 +11404,6 @@
    "source": "pv magazine Deutschland",
    "author": "Sandra Enkhardt",
    "origin": "pv magazine Deutschland"
-  },
-  {
-   "title": "Will Democratic Party introduce a new 'New Deal'? Key narrative must be 'focused on economic issues'",
-   "summary": "With Democrats poised to control both chambers of Congress, the party faces a defining challenge: how to constrain Donald Trump's presidency while carving out a path to the White House in 2028. For Ian Reifowitz, Distinguished Professor of History at SUNY Empire State University, the answer lies in…",
-   "link": "https://www.france24.com/en/will-democratic-party-introduce-a-new-new-deal-key-narrative-must-be-focused-on-economic-issues",
-   "date": "2026-11-06T13:07:30.000Z",
-   "source": "France 24",
-   "author": "FRANCE24",
-   "image": "https://s.france24.com/media/display/d72ef50a-d9dc-11f1-96ab-d18c5759e759/w:1024/p:16x9/EN-20261105-223101-224205-CS.jpg",
-   "origin": "France 24"
   },
   {
    "title": "9 Dinge, die man auf der Art Cologne nicht verpassen sollte",
@@ -11443,14 +11434,6 @@
    "origin": "Google News · Energia"
   },
   {
-   "title": "'No choice but to bear it': Delhi's unrelenting air pollution crisis",
-   "summary": "Despite years of government interventions, emergency restrictions and public outrage, Delhi continues to battle dangerously polluted air every winter. Why isn't there a lasting solution to a predictable crisis?",
-   "link": "https://www.dw.com/en/no-choice-but-to-bear-it-delhi-s-unrelenting-air-pollution-crisis/a-79873124?maca=en-rss-en-world-4025-xml-mrss",
-   "date": "2026-11-06T12:05:00.000Z",
-   "source": "DW",
-   "origin": "DW"
-  },
-  {
    "title": "Simple nudes, priceless fakes and riches from an emperor’s palace – the week in art",
    "summary": "Swap doomscrolling for treasured scrolls, human bodies in all their variety and love triangles in Bloomsbury squares – all in your weekly dispatch Constantinople to Istanbul : One City, Two Empires From the tulips and silks of the Ottoman court, back in time to the Emperor Constantine’s palace…",
    "link": "https://www.theguardian.com/artanddesign/2026/nov/06/the-week-in-art",
@@ -11459,26 +11442,6 @@
    "author": "Jonathan Jones",
    "image": "https://i.guim.co.uk/img/media/e4038300dabdf733bdd85ebc89f858a5ffaffb44/6365_43_3228_2585/master/3228.jpg?width=700&quality=85&auto=format&fit=max&s=1e2f7c0d06eaea1e1f1901578747824d",
    "origin": "The Guardian · Art and design"
-  },
-  {
-   "title": "Europe's crisis of discontent: Student and cost-of-living protests spread across EU",
-   "summary": "A growing wave of discontent is sweeping across Europe. What began in France as student protests over deteriorating school conditions, teacher shortages and an education system under pressure has quickly grown into something much bigger: a groundswell of discontent over the rising cost of living…",
-   "link": "https://www.france24.com/en/tv-shows/talking-europe/20261106-europe-s-crisis-of-discontent-student-and-cost-of-living-protests-spread-across-eu",
-   "date": "2026-11-06T11:48:49.000Z",
-   "source": "France 24",
-   "author": "Jennifer BEN BRAHIM",
-   "image": "https://s.france24.com/media/display/28d69d38-d922-11f1-bb94-d18c5759e759/w:1024/p:16x9/PHOTO-DEBAT-EN-2.png",
-   "origin": "France 24"
-  },
-  {
-   "title": "French 2027 presidential elections: Why Melenchon is a Gen Z favourite",
-   "summary": "Hard-left presidential candidate Jean-Luc Melenchon is beloved by French youth, but also one of the country’s most controversial politicians. His encouragement of the youth protests sweeping through France months ahead of the presidential election has only made him more divisive. So, why is…",
-   "link": "https://www.france24.com/en/french-2027-presidential-elections-why-melenchon-is-a-gen-z-favourite",
-   "date": "2026-11-06T11:43:31.000Z",
-   "source": "France 24",
-   "author": "FRANCE24",
-   "image": "https://s.france24.com/media/display/29fed0fa-d9d5-11f1-accf-a575454bc579/w:1024/p:16x9/New-TITLE.png",
-   "origin": "France 24"
   },
   {
    "title": "Las baterías de sodio se acercan a la paridad con las LFP con 70 GWh en acuerdos de suministro",
@@ -13348,34 +13311,6 @@
    "origin": "FAZ · Feuilleton"
   },
   {
-   "title": "Spritpreisdeckel: Autofahrern droht Preisschub zum Jahreswechsel",
-   "summary": "Ministerin Katherina Reiche hat einen Spritpreisdeckel ausarbeiten lassen, der vermutlich nie greifen wird. Die Vorgaben sind so lax, dass an den Tankstellen weit über dem EU-Durchschnitt abkassiert werden kann.",
-   "link": "https://www.spiegel.de/wirtschaft/service/spritpreisdeckel-wirkungsloser-deckel-koennte-preisschub-zum-jahreswechsel-bringen-a-b34ba65b-5d0b-437e-8c0c-82864c2d7955#ref=rss",
-   "date": "2026-11-02T13:40:00.000Z",
-   "source": "DER SPIEGEL",
-   "image": "https://cdn.prod.www.spiegel.de/images/9c8edf20-543b-491f-a1e4-a20ce22d4235_w520_r2.08_fpx39_fpy38.jpg",
-   "origin": "DER SPIEGEL · Wirtschaft"
-  },
-  {
-   "title": "Ein Kompass für den Vorschriftendschungel rund um Elektromobilität",
-   "summary": "Der neue „Vorschriftenkompass“ der eMobile Academy bündelt mehr als 60 Gesetze, Vorschriften und Richtlinien. Er soll bei Planung und Betrieb von Ladeinfrastruktur rechtliche Orientierung geben und die Verantwortlichen vor unwissentlichen Rechtsverstößen bewahren.",
-   "link": "https://www.pv-magazine.de/2026/11/02/ein-kompass-fuer-den-vorschriftendschungel-rund-um-elektromobilitaet/",
-   "date": "2026-11-02T13:19:04.000Z",
-   "source": "pv magazine Deutschland",
-   "author": "Jochen Siemer",
-   "image": "https://www.pv-magazine.de/wp-content/uploads/2026/11/Vorschriftenkompass-E-Mobilitaet_Grafik-1024x567.jpg",
-   "origin": "pv magazine Deutschland"
-  },
-  {
-   "title": "Sigenergy bringt platzsparenden Gewerbespeicher auf den Markt",
-   "summary": "Der neu gestalteten „SigenCube“ verfügt dem Unternehmen zufolge über eine Energiedichte von mehr als 220 Kilowattstunden pro Quadratmeter. Zudem ist er geräuscharm konzipiert und so ausgelegt, dass er 150 Prozent Überlasttoleranz für zehn Sekunden bereitstellen kann.",
-   "link": "https://www.pv-magazine.de/2026/11/02/sigenergy-bringt-platzsparenden-gewerbespeicher-auf-den-markt/",
-   "date": "2026-11-02T12:02:32.000Z",
-   "source": "pv magazine Deutschland",
-   "author": "Sandra Enkhardt",
-   "origin": "pv magazine Deutschland"
-  },
-  {
    "title": "Crossings: Laura Pannack’s award-winning images of South African youth – in pictures",
    "summary": "The British visual artist and photographer Laura Pannack has been named the winner of the inaugural Tom Stoddart award for excellence 2025. A collaboration between Gost Books and the Ian Parry photojournalism grant , the award supports photographers engaged in long-form documentary work. South…",
    "link": "https://www.theguardian.com/artanddesign/gallery/2026/nov/02/crossings-laura-pannack-south-africa-youth-in-pictures",
@@ -13894,26 +13829,6 @@
    "date": "2026-10-29T13:33:28.000Z",
    "source": "Yahoo",
    "origin": "Google News · Florida Man"
-  },
-  {
-   "title": "California Energy Commission releases US$46 million for DERS supporting grid reliability",
-   "summary": "The California Energy Commission (CEC) has released over US$46 million for the state’s Distributed Electricity Backup Assets (DEBA) Programme.",
-   "link": "https://www.energy-storage.news/california-energy-commission-releases-us46-million-for-ders-supporting-grid-reliability/",
-   "date": "2026-10-29T13:27:47.000Z",
-   "source": "Energy-Storage.news",
-   "author": "April Bonner",
-   "image": "https://www.energy-storage.news/wp-content/uploads/2026/10/1793050933676-edited-768x432.jpg",
-   "origin": "Energy-Storage.news"
-  },
-  {
-   "title": "FirstEnergy data center pipeline increases to 26 GW in Q3",
-   "summary": "Two FirstEnergy utilities reserved combined-cycle turbines for a 1.2-GW data center-focused project in West Virginia and issued a solicitation for an additional 3 GW, company officials said.",
-   "link": "https://www.utilitydive.com/news/firstenergy-data-center-pipeline-maidsville/873149/",
-   "date": "2026-10-29T13:00:02.000Z",
-   "source": "Utility Dive",
-   "author": "Ethan Howland",
-   "image": "https://imgproxy.divecdn.com/hasPkLKR6t1KD6EfkjKCaZTW1yNxMTzkEA_E3FhGn9Q/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzYwMjQxNzg2LmpwZw==.webp",
-   "origin": "Utility Dive"
   },
   {
    "title": "When giving up teaches you more than persevering ever could",
@@ -14439,12 +14354,236 @@
    "origin": "The Marginalian"
   },
   {
+   "title": "Genozidvorwurf: Ist Völkermord wirklich das schwerste aller Verbrechen?",
+   "summary": "Begeht Israel in Gaza einen Völkermord? Und was unterscheidet Völkermord von Kriegsverbrechen? Der Jurist Gerd Hankel erkennt einen fundamentalen Konstruktionsfehler in der Genozidkonvention.",
+   "link": "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/gerd-hankel-ist-voelkermord-wirklich-das-schwerste-verbrechen-accg-201268832.html",
+   "date": "2026-11-08T13:27:43.000Z",
+   "source": "FAZ",
+   "author": "Hendrik Simon",
+   "image": "https://media0.faz.net/image/1b80b220ca1f/w5175h2911x231y402/202610/00b20aec-bd7b-47e6-99aa-8e7f2131f1f1/genozidale-absicht-maenner.webp",
+   "origin": "FAZ · Feuilleton"
+  },
+  {
+   "title": "Eintracht kurios: Kopf, Hacke, Tunnel, Tor",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZE0tSnRSTFV0c1Z5Uno4VjhNSHc3NUlPZExodm5lVll3dEtCWGZ0MXdpTlJzYzdZaElleG81RFZVakl2ZFByOGYxdzNrY0I1bGg3Nkc5N25Ldmlac1ZOY242N3dxX1hkNDZzaEtJWEE3eWZMNlBfY3R5d0FFb1BuV0xIUTAzTEl2allsS3AycFlBTmpY?oc=5",
+   "date": "2026-11-08T13:25:35.000Z",
+   "source": "Frankfurter Rundschau",
+   "origin": "Google News · Kurioses"
+  },
+  {
+   "title": "Tierisch vs. pflanzlich: Gibt es Unterschiede beim Testosteronspiegel je nach Eiweißquelle?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaS15UHJnM01XQjgySnd3WEhMcW5SaHZBTWVkekNFbkI0NkExUlN1ZXYtbUhtSDRldm5Lb01VSDR5MU9oTWpPMWJaQXNGQi1UdkZ2RlJjVXRRZWt0SU5McXZXa3R6TmM1Q0VtQlUzTjhnSC1Sb2FjcE1qaWprUkduclR1WHduUEZPd2Z4WGhmR2JUVDRWVEc5a0MwQk9IcGJ5VzZRVzg4WV9pcE4zS2tlOUNaYXhEOTNZSVVCTWprUGR6aXhR?oc=5",
+   "date": "2026-11-08T13:23:33.000Z",
+   "source": "Scinexx",
+   "origin": "Google News · Kurioses"
+  },
+  {
+   "title": "Women in media alleging abuse too often not protected, Lisa Nandy says",
+   "summary": "Culture secretary says there is still a problem in media industry and across public life after Russell Brand conviction Lisa Nandy, the culture secretary, has said there is still a problem with exploitation and abuse in the media industry and a failure to properly deal with allegations, after…",
+   "link": "https://www.theguardian.com/media/2026/nov/08/women-abuse-media-industry-lisa-nandy-russell-brand",
+   "date": "2026-11-08T13:18:50.000Z",
+   "source": "The Guardian",
+   "author": "Pippa Crerar Political editor",
+   "image": "https://i.guim.co.uk/img/media/762ae91c8ce0a67e86d117452274a6e484f8f369/273_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=31798596d968030fe5c3757c4943150f",
+   "origin": "The Guardian · World"
+  },
+  {
+   "title": "Could Iraq’s Kurdish region return to two separate administrations?",
+   "summary": "A political impasse between the KRG and PUK threatens to break up the semiautonomous northern region.",
+   "link": "https://www.aljazeera.com/news/2026/11/8/could-iraqs-kurdish-region-return-to-two-separate-administrations?traffic_source=rss",
+   "date": "2026-11-08T13:06:28.000Z",
+   "source": "Al Jazeera",
+   "origin": "Al Jazeera"
+  },
+  {
+   "title": "Corteo a Gorizia, il richiamo agli anni ’70 appare surreale",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YTmF3WlFNS0hjT1ZCWm1Uc1pEY3N5ME1HRi01X1dJdXF3OTlPbHdIbjNEM04tOEg2cWNyanBmUEFwQjRmMWJVM1BxMVNkNFdaRmplQ0JkZF9yeGFCaURXRXBtX3pJeFNsSWJYYy1QRlZRQWZBc1dnNGZfd04?oc=5",
+   "date": "2026-11-08T13:06:00.000Z",
+   "source": "Nordest24",
+   "origin": "Google News · Insolito"
+  },
+  {
+   "title": "Second world war veterans outnumber former PMs for possible last time on Remembrance Sunday",
+   "summary": "Andy Burnham takes part for first time alongside eight ex-premiers as 12 veterans participate in ceremony Second world war veterans outnumbered former prime ministers for what could be the last time at the national service of remembrance at the Cenotaph in central London. The number of veterans…",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/08/second-world-war-veterans-outnumber-former-pms-for-possible-last-time-on-remembrance-sunday",
+   "date": "2026-11-08T13:05:13.000Z",
+   "source": "The Guardian",
+   "author": "Matthew Weaver",
+   "image": "https://i.guim.co.uk/img/media/3065658e846c2e2b14d344b3d55bb4f6018939a3/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=c45538f78002b350ef8ebc4f6d51d1b5",
+   "origin": "The Guardian · World"
+  },
+  {
+   "title": "‘We feel the love’: Epstein survivors overwhelmed by messages of support at pop-up art exhibition",
+   "summary": "Visitors to a touring show drawing attention to Epstein’s crimes have left thousands of ‘powerful’ notes – and survivors say it means a great deal When Danielle Bensky first went to The Donald J Trump and Jeffrey Epstein Memorial Reading Room, she didn’t know what to expect. “What happens if I walk…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/08/jeffrey-epstein-survivors-exhibition",
+   "date": "2026-11-08T13:00:41.000Z",
+   "source": "The Guardian",
+   "author": "Victoria Bekiempis",
+   "image": "https://i.guim.co.uk/img/media/78ece6a61cf423ac18473ef637cd34631b86a206/693_0_6925_5540/master/6925.jpg?width=700&quality=85&auto=format&fit=max&s=da9a4f3cb088bcb5f149d2de2aba01cb",
+   "origin": "The Guardian · World"
+  },
+  {
+   "title": "US datacenter demand spurs increased fossil fuel pipeline projects as rules are discarded",
+   "summary": "Trump administration has gutted regulations that protect lives and natural resources as pipeline build-out continues Datacenters are spurring a boom in fossil fuel pipeline projects at a time when the Trump administration is gutting rules that protect from disasters along the lines, a new review of…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/08/datacenters-fossil-fuel-pipelines-regulations",
+   "date": "2026-11-08T13:00:40.000Z",
+   "source": "The Guardian",
+   "author": "Tom Perkins",
+   "image": "https://i.guim.co.uk/img/media/76b64c85eae178abb4fb3319f9b303b67db8040c/305_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=3212cb932b3cd8e7bcbd88b06e8592d8",
+   "origin": "The Guardian · World"
+  },
+  {
+   "title": "„BücherMesse Seitenwechsel“: Lesend geht die Welt zugrunde?",
+   "summary": "Zum zweiten Mal haben sich in Halle rechte Verlage zur „BücherMesse Seitenwechsel“ getroffen. Harald Martenstein hielt die Eröffnungsrede und befeuerte so die Normalisierung rechtsextremer Positionen.",
+   "link": "https://www.faz.net/aktuell/feuilleton/buecher/literatur/buechermesse-seitenwechsel-in-halle-accg-201662821.html",
+   "date": "2026-11-08T12:55:42.000Z",
+   "source": "FAZ",
+   "author": "Julia Encke",
+   "image": "https://media0.faz.net/image/5aef659f7cc5/w4000h2250x0y374/202611/16ae6db3-a648-47c7-a082-9d406cb2232f/bei-der-buchmesse.webp",
+   "origin": "FAZ · Feuilleton"
+  },
+  {
+   "title": "Frühe Schriften: Walter Benjamins Rebellion begann am Lagerfeuer",
+   "summary": "Wer die neue Edition der Jugendschriften des Philosophen liest, trifft auf einen Benjamin, der sich selbst noch suchte: zwischen Hölderlin, Stefan George und dem Rausch der Jugendbewegung.",
+   "link": "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/walter-benjamins-jugendschriften-zwischen-lagerfeuer-und-stefan-george-201225042.html",
+   "date": "2026-11-08T12:43:00.000Z",
+   "source": "FAZ",
+   "author": "Wolfgang Matz",
+   "image": "https://media0.faz.net/image/f42cc8fae5e0/w2540h1429x0y1158/202405/43601.0.322235225/vom-jugendbewegten-zum.webp",
+   "origin": "FAZ · Feuilleton"
+  },
+  {
+   "title": "Caro energia, inverno da 860 euro per le famiglie: bollette oltre i 1.300 euro al Nord. Stangata anche sulle imprese",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdURSNHpOaGFneHdraVYxUDNoV0hFUWg5bllhTUUtSi0yZy1XR0VNNjAwVGJnby0yMk1Hd0tFSENsMWhVcUFyUlhnSXZ0aEF1YWlXVFJvdUNPTS12c0d1cWt5bVNWQm9MR05PT3paR2RXelM1ZHVFV0p2enVkNDR4RUJQM0Etb0hOMkZJM2h3?oc=5",
+   "date": "2026-11-08T12:11:15.000Z",
+   "source": "Telenord",
+   "origin": "Google News · Energia"
+  },
+  {
+   "title": "Stimulant overdoses on the rise as opioid deaths decline, but treatment is complex",
+   "summary": "More people recognize opioid overdoses, but education about stimulant overdoses hasn’t been as clear-cut Overdoses involving stimulants are on the rise in many parts of the country, according to recently available data from the Centers for Disease Control and Prevention, but experts say recognizing…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/08/stimulant-overdoses-rise",
+   "date": "2026-11-08T12:00:40.000Z",
+   "source": "The Guardian",
+   "author": "Hannah Harris Green",
+   "image": "https://i.guim.co.uk/img/media/615a59db63bbd6a25dc0a6a62f4ef9a8e67930de/758_0_4801_3840/master/4801.jpg?width=700&quality=85&auto=format&fit=max&s=2e5ca7368aa56f85b6c12647c6b45c02",
+   "origin": "The Guardian · World"
+  },
+  {
+   "title": "‘No tech, no texts, just childhood’: author Liz Pichon on the secrets behind her multi-million selling Tom Gates series",
+   "summary": "As her long-running children’s book series turns 15, Liz Pichon talks about overcoming dyslexia to become a bestselling author If you ever find yourself in an airport newsagent, it might be worth peering inside one of Liz Pichon’s books. “I do guerrilla signings,” she tells me conspiratorially…",
+   "link": "https://www.theguardian.com/books/2026/nov/08/no-tech-no-texts-just-childhood-author-liz-pichon-on-the-secrets-behind-her-multi-million-selling-tom-gates-series",
+   "date": "2026-11-08T12:00:39.000Z",
+   "source": "The Guardian",
+   "author": "Stuart Heritage",
+   "image": "https://i.guim.co.uk/img/media/1eafafb6e0671cd94d2d86a0ed34393976637daa/0_1432_5760_4608/master/5760.jpg?width=700&quality=85&auto=format&fit=max&s=b106bc16efbb57115df231b6beecb3af",
+   "origin": "The Guardian · Books"
+  },
+  {
+   "title": "Von Kurios bis Kennerwissen: Zehn Fakten zum neuen Fehntjer Gemeinderat",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRzNHSHZTMXd6OVZKY3ZUWjFmMS1mNWFMc09rMVFGdkhMSVlkVllmWnNEV29fOWxHQ3dzbmg1NVFpYVdBOHZITjRMT05CaUdvNnQ2aldiSlNENl9jVWc0RUt1YVZHY1ZmMDFKajVzRDJpbDc4dDZZaksyb3lZWFNlSkJoRVR5SnRfeVpZ?oc=5",
+   "date": "2026-11-08T12:00:00.000Z",
+   "source": "OZ online",
+   "origin": "Google News · Kurioses"
+  },
+  {
+   "title": "Could UFC boss Dana White be next White House press secretary?",
+   "summary": "UFC chief Dana White says he’ll meet Trump after the US president urged him to become White House press secretary.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/could-ufc-boss-dana-white-be-next-white-house-press-secretary?traffic_source=rss",
+   "date": "2026-11-08T11:57:05.000Z",
+   "source": "Al Jazeera",
+   "origin": "Al Jazeera"
+  },
+  {
+   "title": "Who’s who at Cop31: key players at the climate talks",
+   "summary": "What are the relationships and dominant interests in play, as the summit kicks off after a bitter row over its hosting? Hosting Cop was a key pledge from Australia’s prime minister, Anthony Albanese in 2021 , while in opposition, before his successful election campaign. But arcane rules meant the…",
+   "link": "https://www.theguardian.com/environment/2026/nov/08/cop31-key-players-climate-talks",
+   "date": "2026-11-08T11:48:56.000Z",
+   "source": "The Guardian",
+   "author": "Fiona Harvey Environment editor",
+   "image": "https://i.guim.co.uk/img/media/72678bea25c1a92a183def8f6052f58a39fa3e5a/790_0_4240_3392/master/4240.jpg?width=700&quality=85&auto=format&fit=max&s=23270e0eaccd405ef9d446499ed7f437",
+   "origin": "The Guardian · World"
+  },
+  {
+   "title": "Insólito accidente en Brasil: un dron de la Fórmula 1 se estrelló y todo quedó grabado",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU1hpS3VNNUZTczhHVG9hSERzY0dxV29jZEhNb2MtRDlzWlVpWTdLWXpXZHctN1VJNHRSRnE4ZEFLUWhMaFROaHVzXzdpcnFVc0Z4R3ZkbEJSOFhYaFhtZXEtV2dxdEtEUU5KR194enZyVC1SWjZmQXFCNjJ0eGNvQURPQ0VsSWdwODFDUzZsdFNYTEdRZUpqN1hvR3dxMWFkX3lZUWtoUEhqbnZPbmw1TzcyY0dNYW5PNk9OSzhlblBoOHJYNHZyVDBVNA?oc=5",
+   "date": "2026-11-08T11:44:33.000Z",
+   "source": "Carburando",
+   "origin": "Google News · Insólito"
+  },
+  {
+   "title": "¡Insólito momento en Argentina! Rosario Central celebra el título por error y lo acaba ganando Boca Juniors",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ3pRZE9iMGlpVUNVdU4zV3RnSk1TaGJIV3RpZU5WOFNlbFh0TTU4VUJ0X1Rzak9tblNabUkwR2pzZk5raTNXcU1OMW83YnhUQ19oM2tHUkNuRzdCaEhnZzZBZ2Q3VkRvQXFoVVhpdXZTZWZrUl9KdDNBR2RzOWkxYU95Z3ZKbzNuWW5xQ3Y5ZkRwd19odFotRzdWMEUyemxsZVF0NzE0b1U1d9IBqgFBVV95cUxPWjdCd1YwYlU4RDQzczc0VDhIRVQ2dlBqQ0lPUVc3Q25jbTFFUGpYUno1QzhpMVZfdkRNY1ZRRmpxMlZBOFU1ZWFWX3M5XzRkSDBYUFJTMExROG9WYXUzNHphUzRVd19zc1BDMVR5djRHQmxuOG5vWkNidDlCV3N3RXJNYjVHV0RQeTJ5Wm04NmVaYVRqTjdtbFBEWlZYRGFtZWRrYzg1ajJjQQ?oc=5",
+   "date": "2026-11-08T11:38:03.000Z",
+   "source": "SPORT",
+   "origin": "Google News · Insólito"
+  },
+  {
+   "title": "Will Eisenkot be able to form Israel’s next gov’t amid divided opposition?",
+   "summary": "Former army chief has 28 days to cobble together a ruling coalition after President chose him over incumbent Netanyahu.",
+   "link": "https://www.aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition?traffic_source=rss",
+   "date": "2026-11-08T11:34:58.000Z",
+   "source": "Al Jazeera",
+   "origin": "Al Jazeera"
+  },
+  {
+   "title": "La insólita confesión de Verstappen tras la clasificación en Brasil: \"Perdí 12 horas de mi vida\"",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdUt6YVIxNmstRGVzSXRFQ240YWRONjNiWVRrYlRnSWlLcFJMcFBtV1NOcXYzYmhZYVlZb3BtQlljTUtNVTg2Ql9WUEdpT3FmMlh1ZFU5cVB2S0R0RWloOGx0M2tmVEpZOUg3eFJuZUdwdDJ6UjE5NXhZaFhMSlYzV29aRVoyZ0ZURlIzaFQ0UEctVXN2S3U5RXRsMlRKRjJXeXM4d0RTeGtoU3RFNE04dThQR3JjVEVmb3lyaVpMTTllb0U0anRQUHFCMldlMXVzT2ZZRDh3?oc=5",
+   "date": "2026-11-08T11:33:26.000Z",
+   "source": "Carburando",
+   "origin": "Google News · Insólito"
+  },
+  {
+   "title": "Filmklassiker „Die Teufel“: Das Kreuz mit den Nonnen",
+   "summary": "Als Ken Russells „The Devils“ im Jahr 1971 herauskam, war der Film über verführte Nonnen ein Skandal. Nun kehrt diese ursprüngliche Fassung zurück auf die Leinwand.",
+   "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/kino/wie-ken-russells-skandalfilm-the-devils-zurueck-ins-kino-kehrte-accg-201646411.html",
+   "date": "2026-11-08T11:18:48.000Z",
+   "source": "FAZ",
+   "author": "Maria Wiesner",
+   "image": "https://media0.faz.net/image/8eb14bcd4a2d/w4252h2392x0y1311/202611/7c0de4e4-7c08-4a2d-9eaa-2e12aed7b199/in-kulissen-von-derek-jarman.webp",
+   "origin": "FAZ · Feuilleton"
+  },
+  {
+   "title": "¡Surrealista! Rosario Central celebró un título que creía haber ganado pero que finalmente no fue suyo",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdm5jVHhYSEM4MWVyWXFvSTlOVWZlX0JFNXhPb3dCXzg2dVNxN29fVHpTVEtJTW1YbDZpX0pSeFBuaHZKS08tRlFDNzZBMHQ3QzZHT3BOajUyNUh5ZW5uXzdGb1dONG5DZEhPTjdKa1lpd1ZSQ3BWX0JScjBwcWJ2YV91Z2p3NGMyTHctcmVFdXpiM2U1RmMzekJqTXNQMUwwMnlzeVdoNk7SAagBQVVfeXFMTmJ1MGRsSnhDSWJIUE1RRzZYbE5xVWpNQ2FkaVFIU21WYWFFSDhBWi0tMXNOX3lEb3lSZFFSYnJ2dFhQQVFmMjVtSWFQSDhTa2h2NlNCd3VUTF9vdzI4UjdyZ1NxQjZ5QXBuOWpYWWdCejFpSldHeEYyV0lHUjdXMkN5aTRWTzhVblNKRWZlb09sWFJNaUsyVE1aNnRjSjdhZGJLMTBpN1Qy?oc=5",
+   "date": "2026-11-08T11:11:30.000Z",
+   "source": "SPORT",
+   "origin": "Google News · Insólito"
+  },
+  {
+   "title": "El dato insólito que retrata al Valencia y Maffeo: 51 minutos sin faltas ante el Barcelona y 26 contra el Real Madrid",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZXJPcVNlLTVkQ29STDJpY015Nm1fNWZVU2RmZ09TTk1iR2c2QnZyaGhLNjRWbi12TkFndkJ0NWFGWk1vQmJOMDN1UE1ySkRjMmVySHJ4OUNYeUJDTHF1cllKUF82eFh6Vkd1ZVdudnNzZGhBaWdDOGlPTEo2eXFCVVNvS3BBZGpEUWRSUHFfSk9UX2syc1V1d0kyZmdjbDcyOE0wcFR5YUpaMGRlSm11Zk0ybWFvak9DbEgtRG12M0VvWUdieXhOX2wxOVYzSm5MOVp2VnVOZ1dFalNLczlvc04xaUhlRmc?oc=5",
+   "date": "2026-11-08T11:05:57.000Z",
+   "source": "OkDiario",
+   "origin": "Google News · Insólito"
+  },
+  {
    "title": "El dato insólito que retrata al Valencia y Maffeo: 51 minutos sin faltas ante el Barcelona y 26 contra el R...",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZXJPcVNlLTVkQ29STDJpY015Nm1fNWZVU2RmZ09TTk1iR2c2QnZyaGhLNjRWbi12TkFndkJ0NWFGWk1vQmJOMDN1UE1ySkRjMmVySHJ4OUNYeUJDTHF1cllKUF82eFh6Vkd1ZVdudnNzZGhBaWdDOGlPTEo2eXFCVVNvS3BBZGpEUWRSUHFfSk9UX2syc1V1d0kyZmdjbDcyOE0wcFR5YUpaMGRlSm11Zk0ybWFvak9DbEgtRG12M0VvWUdieXhOX2wxOVYzSm5MOVp2VnVOZ1dFalNLczlvc04xaUhlRmfSAewBQVVfeXFMT0RoQ0M2b0Vna21tVjdyMGZkTjhnMV92THJyNkVSbFI1bXB3WEdmNmdkZTQ1d05ROXJFUlVVUkRQYjU5TE9Lb1pLNUczczdnazVRVU9EWmxRWW1SbVNKU3d0bzVQeWt2NHJ6bHA5VUIwMGg4a2ptdXJOWUxfZEg5Q1o4OG9jeUwyVUI2VFBPWlVFdDBrZ0xHWno0akQzdWZ6WUhzekhZbURtUHJZMHNKSUo4WHB2RlJWNUp3cXZpVWg5T0h2eUlRN0hMSWk4RE10MDlFU044c3RMazNGSFFnQjhua2xNZWUxTG9rZTQ?oc=5",
    "date": "2026-11-08T11:05:57.000Z",
    "source": "OkDiario",
    "origin": "Google News · Insólito"
+  },
+  {
+   "title": "Mother of Royal Navy sailor missing for 40 years calls for suspected killer to confess",
+   "summary": "Margaret Parkes and her husband, in their 80s, want Allan Grimson to reveal location of their son Simon’s remains The mother of a teenage Royal Navy sailor who vanished 40 years ago has called for a “serial killer” suspected of murdering him to finally reveal where her son’s body is hidden…",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/08/simon-parkes-navy-sailor-mother-allan-grimson-suspected-killer",
+   "date": "2026-11-08T11:00:37.000Z",
+   "source": "The Guardian",
+   "author": "Steven Morris",
+   "image": "https://i.guim.co.uk/img/media/841be306ef3aa3c277d9e059ce076c22b6268a97/1268_160_4885_3908/master/4885.jpg?width=700&quality=85&auto=format&fit=max&s=7476b2739162dce30fb378d10239dd32",
+   "origin": "The Guardian · World"
   },
   {
    "title": "Kurioser Einsatz - So ein Mist! Urlauber mit ungewöhnlichem Gas-Alarm",
@@ -15110,6 +15249,14 @@
    "origin": "Google News · Insolito"
   },
   {
+   "title": "Cos’hanno di speciale gli “specialty coffee”?",
+   "summary": "Nelle nuove caffetterie è sempre più frequente trovare caffè filtrati con aromi diversi dal solito, e prezzi più alti",
+   "link": "https://www.ilpost.it/2026/11/07/specialty-coffee-caffe/",
+   "date": "2026-11-07T15:35:10.000Z",
+   "source": "Il Post",
+   "origin": "Il Post · Cultura"
+  },
+  {
    "title": "Alice Oswalds „Rhapsody“: Zu den ältesten Dichtern zählen die Heuschrecken",
    "summary": "Auf Homers Spuren: Die englische Dichterin Alice Oswald schreibt mit „Rhapsody“ ein einzigartiges poetisches Manifest.",
    "link": "https://www.faz.net/aktuell/feuilleton/buecher/literatur/alice-oswalds-rhapsody-liebeserklaerung-an-die-poesie-accg-201213041.html",
@@ -15656,16 +15803,6 @@
    "source": "BBC News",
    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/97ed/live/4b09f660-da7c-11f1-a975-15a4138f9d40.jpg",
    "origin": "BBC News · World"
-  },
-  {
-   "title": "Genozidvorwurf: Ist Völkermord wirklich das schwerste aller Verbrechen?",
-   "summary": "Begeht Israel in Gaza einen Völkermord? Und was unterscheidet Völkermord von Kriegsverbrechen? Der Jurist Gerd Hankel erkennt einen fundamentalen Konstruktionsfehler in der Genozidkonvention.",
-   "link": "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/gerd-hankel-ist-voelkermord-wirklich-das-schwerste-verbrechen-accg-201268832.html",
-   "date": "2026-11-07T07:19:45.000Z",
-   "source": "FAZ",
-   "author": "Hendrik Simon",
-   "image": "https://media0.faz.net/image/1b80b220ca1f/w5175h2911x231y402/202610/00b20aec-bd7b-47e6-99aa-8e7f2131f1f1/genozidale-absicht-maenner.webp",
-   "origin": "FAZ · Feuilleton"
   },
   {
    "title": "Early release prisoners facing street homelessness, probation staff warn",
@@ -16823,16 +16960,6 @@
    "origin": "FAZ · Feuilleton"
   },
   {
-   "title": "Is Israel opposition figure Gadi Eisenkot going to replace Benjamin Netanyahu?",
-   "summary": "In Israel, Gadi Eisenkot emerged on Thursday, November 5, as the frontrunner to be tasked with forming a government. This comes after one of the two main parties representing ultra-Orthodox Jewish voters – a longtime ally of Prime Minister Benjamin Netanyahu's coalition – declined to recommend any…",
-   "link": "https://www.france24.com/en/video/20261106-is-israel-opposition-figure-gadi-eisenkot-going-to-replace-benjamin-netanyahu",
-   "date": "2026-11-06T13:25:57.000Z",
-   "source": "France 24",
-   "author": "FRANCE24",
-   "image": "https://s.france24.com/media/display/ebb71fde-d9cd-11f1-a086-a575454bc579/w:1024/p:16x9/capture-04af7880.jpg",
-   "origin": "France 24"
-  },
-  {
    "title": "Recaudan 784.000 dólares para un trabajador al que gastaron una broma y este decide pararla para evitar más atención mediática",
    "summary": "Walter E. Zerod, empleado de Red Baron, ha dado las gracias por el apoyo, pero prefiere apartarse del foco para pasar tiempo con su familia.",
    "link": "https://www.20minutos.es/gonzoo/recaudan-784-000-dolares-para-un-trabajador-que-gastaron-una-broma-este-decide-pararla-para-evitar-mas-atencion-mediatica_7058217_0.html",
@@ -16860,16 +16987,6 @@
    "origin": "Google News · Energía"
   },
   {
-   "title": "Flávio Bolsonaro battles to remain relevant as he speaks at rightwing conference at Mar-a-Lago",
-   "summary": "Far-right politician addresses Conservative Political Action Conference and makes unsubstantiated claims about election fraud Flávio Bolsonaro, the far-right politician who lost Brazil’s presidential election last month, has insisted his defeat is not “the end for Brazil” as he battles to maintain…",
-   "link": "https://www.theguardian.com/world/2026/nov/06/flavio-bolsonaro-upbeat-brazil-election-us",
-   "date": "2026-11-06T13:03:38.000Z",
-   "source": "The Guardian",
-   "author": "Tom Phillips in Rio de Janeiro",
-   "image": "https://i.guim.co.uk/img/media/3fe8efc901b9158f1c2cd1700fd01110a70a3ecc/1583_790_5453_4362/master/5453.jpg?width=700&quality=85&auto=format&fit=max&s=1a270f0619232a9a270392dd54c334ad",
-   "origin": "The Guardian · World"
-  },
-  {
    "title": "El Consejo de la Ingeniería de España elige como nuevo presidente a Carlos Medina Álvarez",
    "summary": "El Consejo de la Ingeniería de España (CIE) ha elegido como nuevo presidente a Carlos Medina Álvarez.",
    "link": "https://elperiodicodelaenergia.com/el-consejo-de-la-ingenieria-de-espana-elige-como-nuevo-presidente-a-carlos-medina-alvarez/",
@@ -16877,25 +16994,6 @@
    "source": "El Periódico de la Energía",
    "image": "https://cdn.elperiodicodelaenergia.com/2026/11/6aedcb4db58b36b5ef743397.jpg",
    "origin": "El Periódico de la Energía"
-  },
-  {
-   "title": "Russian extremist group denies sending hoax bomb threats",
-   "summary": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
-   "link": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-06T12:51:38.000Z",
-   "source": "BBC News",
-   "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/dddd/live/b610ac80-d9da-11f1-b441-2b33b063138f.jpg",
-   "origin": "BBC News · World"
-  },
-  {
-   "title": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
-   "summary": "Former liberation movement’s share of national vote almost 14 percentage points below 2021 result The African National Congress is on course to suffer a bruising defeat in South Africa’s local elections, with the once dominant party of Nelson Mandela falling to under a third of the vote nationally…",
-   "link": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
-   "date": "2026-11-06T12:48:37.000Z",
-   "source": "The Guardian",
-   "author": "Rachel Savage in Johannesburg",
-   "image": "https://i.guim.co.uk/img/media/ca80f1733421e850930a8c2267b7214219fef832/697_286_4649_3719/master/4649.jpg?width=700&quality=85&auto=format&fit=max&s=4b52fcd00653a4881aa4fe2b6b753875",
-   "origin": "The Guardian · World"
   },
   {
    "title": "Los distribuidores de butano urgen a actualizar la retribución ante los mayores costes e inflación",
@@ -17371,6 +17469,16 @@
    "origin": "Google News · Insolito"
   },
   {
+   "title": "VÍDEO| Prueba del BYD Dolphin G DM-i Comfort: el híbrido enchufable que ha creado su propia categoría",
+   "summary": "Al igual que hizo con el Atto 2 DM-i, BYD introduce la tecnología phev en una categoría que carecía de ella. El responsable, el Dolphin G DM-i que nosotros hemos probado y que se convierte en un duro rival para los clásicos modelos",
+   "link": "https://elperiodicodelaenergia.com/video-prueba-del-byd-dolphin-g-dm-i-comfort-el-hibrido-enchufable-que-ha-creado-su-propia-categoria/",
+   "date": "2026-11-06T07:47:00.000Z",
+   "source": "El Periódico de la Energía",
+   "author": "Karam El Shenawy",
+   "image": "https://cdn.elperiodicodelaenergia.com/2026/11/6aeb67eb4d8cbc97673c5117.jpg",
+   "origin": "El Periódico de la Energía"
+  },
+  {
    "title": "Bau des Leipziger Einheitsdenkmals soll im Frühjahr starten",
    "summary": "Bau des Leipziger Einheitsdenkmals soll im Frühjahr starten Daniel Völzke Fri, 11/06/2026 - 08:45",
    "link": "https://www.monopol-magazin.de/bau-des-leipziger-einheitsdenkmals-soll-im-fruehjahr-starten",
@@ -17394,6 +17502,16 @@
    "date": "2026-11-06T07:43:46.000Z",
    "source": "El Correo",
    "origin": "Google News · Insólito"
+  },
+  {
+   "title": "El coche eléctrico, mucho más que movilidad",
+   "summary": "Porque electrificar el transporte no consiste simplemente en sustituir millones de depósitos de combustible por millones de baterías conectadas a la red.",
+   "link": "https://elperiodicodelaenergia.com/el-coche-electrico-mucho-mas-que-movilidad/",
+   "date": "2026-11-06T07:36:00.000Z",
+   "source": "El Periódico de la Energía",
+   "author": "Jordi Jené",
+   "image": "https://cdn.elperiodicodelaenergia.com/2026/11/6aed82ceb58b36b5ef74338d.png",
+   "origin": "El Periódico de la Energía"
   },
   {
    "title": "KI-Modelle im Wettstreit: Wenn KI-Agenten im Videospiel gegeneinander antreten",
@@ -20493,16 +20611,6 @@
    "origin": "Google News · Insolito"
   },
   {
-   "title": "Aussteiger aus rechtsextremer Szene: „Damals habe ich gedacht, wir müssen zusammenhalten“",
-   "summary": "Erst gemeinsam Abhängen, dann Hitlergrüße: Timo Groenke fand in der rechtsextremen Jugendszene eine Gemeinschaft. Heute findet er sie furchtbar. mehr...",
-   "link": "https://taz.de/Neonazi-Aussteiger-Ich-verabscheue-was-ich-frueher-gedacht-habe/!6223295/",
-   "date": "2026-11-03T13:10:00.000Z",
-   "source": "taz",
-   "author": "Erik Peter",
-   "image": "https://taz.de/picture/8827671/948/42349285.jpeg",
-   "origin": "taz"
-  },
-  {
    "title": "Teaser Tierisch Assistenzhunde",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM25CUVRGcVI2ZUZiZkdRejhOTnQtOGF3QW1NTkt5eTl0NE1TeUlWc1J0SjRDSy1nemFzT1hoRGx6MktqWE5vb2hLUUJMbDB5NnZwYjN1Ni1GbmwyYXQ3S2ZtVVp2TnB2elFycmRXWkhWMk5mX2Q4d040ZDNvRHR3RHpqeDF2ZHM?oc=5",
@@ -20661,14 +20769,6 @@
    "origin": "Google News · Insólito"
   },
   {
-   "title": "Insólito error en Kuwait: la picardía de un arquero termina en tiro libre indirecto",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMEh2dlhzSURQMkh3c2dMMlcyTUQ3VGtvY3dHM21xRy1sLURKQnhpR3pJTjFJUTZrWnExeWRvVzd3dnhEMEZOUDVLeE13aDV5NS1pMzMyQUdzUTV6NWx4a2lIV0VhbTlNSk9rNF8xakNlY2FVdDZkRkswMFZRWkpZUkFVVTBkVXVyT0IxSzFLbkotV0Y0MVQ4ckVlMHJBV0dQN3FWbUlvUFpEYXJadHIwYUhxR0x5UUVDdTFBOGxVaHJCU0RwSDJmNEpMRG5VMVBRZ21hUWhpaFVkY3N2MXU40gHfAUFVX3lxTE0wSHZ2WHNJRFAySHdzZ0wyVzJNRDdUa29jd0czbXFHLWwtREpCeGlHeklOMUlRNmtacTF5ZG9XN3d2eEQwRk5QNUt4TXdoNXk1LWkzMzJBR3NRNXo1bHhraUhXRWFtOU1KT2s0XzFqQ2VjYVV0NmRGSzAwVlFaSllSQVVVMGRVdXJPQjFLMUtuSi1XRjQxVDhyRWUwckFXR1A3cVZtSW9QWkRhclp0cjBhSHFHTHlRRUN1MUE4bFVockJTRHBIMmY0SkxEblUxUFFnbWFRaGloVWRjc3YxdTg?oc=5",
-   "date": "2026-11-03T10:52:59.000Z",
-   "source": "Mundo Deportivo",
-   "origin": "Google News · Insólito"
-  },
-  {
    "title": "Kurioser Crash: Fahrer rammt Werbetafel, flieht – und kehrt anschließend zu Fuß zurück",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYW5iZElxVGZhWjFHSlJpOERhR01nS1ZuR095ZEtBSWE4eHFITFU0TDVsYXdVaW5Vc3NoOUJmNTEyMzRYdWh5N3lGR0phbDBlWkRneFpZVnRxZzN0VUtsaUJ0M1UxN01NdVZjQTRyZ2FJdEY3OFMyaFo3OVFsbzktYTkzZ19iZlAyOHNiOWNyTlpjeVZQQUlLSUF1WEFGdmhjbVBXcVlEUFVWOFE0aEpVb0xWTEV5aTJkOGw1TW5qeVN0dHd0U3V5Q3NucXRhelhxWE0zU3ZSeFJ1VEIz?oc=5",
@@ -20700,30 +20800,6 @@
    "date": "2026-11-03T10:09:19.000Z",
    "source": "Vietnam.vn",
    "origin": "Google News · Insolito"
-  },
-  {
-   "title": "Wicker: Olivia Colman encarga un marido de mimbre en una comedia surrealista",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWXRFclN4NW1tY2w0Z1ZpSFVpZTFPQUxqazhGM1pld3dxbWtUbzM3VUdzZW1IRUxiR2hlZ2lOZnR2cnR1MjQxTmtaWmxIOGw3YXJMb3h3aDhtUkg2b2pjdnY3bWlla2dUM3JYTUtkNktnTHljcDZJaEtpRUNhWExTaHVDbnJnalNrSW5BbHN0RDZMSzMzSElkOG50b3N0dldPSXE4R3BUc0lBX2toTVE?oc=5",
-   "date": "2026-11-03T10:00:00.000Z",
-   "source": "Foro3D",
-   "origin": "Google News · Insólito"
-  },
-  {
-   "title": "Moscú expone bestiarios, agua en movimiento y fauna insólita en noviembre",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV24tUTlVLVFDMDdVY3JiTm9TRC1EQnR6RWZwM1pmcEVjLXo4eWZSbU56Szg3N0VkX0M1WmczVVpQSzJScnMwdWZGN0Y2RXY4ZHlOMHFaZWJwU0tyeDBGS1pGbXVqRTVhU2Fjc0loMy1uYXpqVWtRWEstWk9iWnQyNHZBZkFpNjd2dGR2MW1Vc1JvVHNEdUlmdnRzdjVxUTcyc01CZ3hUNllyal9rQkE?oc=5",
-   "date": "2026-11-03T10:00:00.000Z",
-   "source": "Foro3D",
-   "origin": "Google News · Insólito"
-  },
-  {
-   "title": "El regalo más surrealista de un equipo de hockey ruso a su mejor jugador",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVzhUaWpNRkI1eGNvRHdTRTNyZy1rcHJLU2I1MURiU3BDWl9pMVYtOHAyVEpsOEp6M0x1QjA5LWFqSDJXWV90LTI1dU1VWjNYT2cwalpOMkkza3lGRnNONG1aX3ZqUDA0S0ZPS1ljcWJrNlZWaDdrNGRJU3pHUmlKVWxocVJFZmVVOThaRUZuX21ReGVyQ1p2WEVlZUJSWTZYRDljMTFR?oc=5",
-   "date": "2026-11-03T10:00:00.000Z",
-   "source": "Fernanda Tapia",
-   "origin": "Google News · Insólito"
   },
   {
    "title": "Uiltucs Sicilia: situazione surreale, fondamentale investire in sicurezza e tecnologia",
@@ -20760,14 +20836,6 @@
    "author": "Georg Imdahl, London",
    "image": "https://media0.faz.net/image/5b03150e3cf5/w2596h1460x233y618/202610/dc634b32-1184-4046-994c-e14572b9dd48/spenden-sterne-noch-trost-oder.webp",
    "origin": "FAZ · Feuilleton"
-  },
-  {
-   "title": "Estados Unidos. Insólita crisis demócrata en Michigan luego de que una congresista pro-sionista llamara a votar a los republicanos en contra de El Sayed",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPWkwxaFdmWHZiZG9ENWxHT29uNC04REd0Q3RTY003TFR5MTdCZ2lOX0JFS1VoVE5WaXpWN2N0WW5oQXN6RG9qR2NaaXdhcUo0eTdEXzIzSVBZSnBkS05hc0pmR01BZVp1WTIyVjdMRXpUbFpHXzkyOU5rQ1FDVDR3S0ZpYVRzQUJNenV6N3Z3bGdIZWxRNjZBbC1pbVYweDJqZnN2NzNCajhpY0ZkQUdzZ2s0SEltTGtFRm9kcldUTDJoa0FkdENSODdMMDV3ZTZLektpLXRFckFxNE9GTExrQVV0ek4xbWhRUjZCYkNqLTFYVDlDM2U1THJJcE55dEQ1ek1VYkxnRGViMkY0aTBsdEtOckFlYTYyMUNVTHFRNGZIenRzeW5tVm13?oc=5",
-   "date": "2026-11-03T09:04:04.000Z",
-   "source": "Resumen Latinoamericano -",
-   "origin": "Google News · Insólito"
   },
   {
    "title": "Vier Entdeckungen aus den Newcomer-Sektionen",
@@ -21306,16 +21374,6 @@
    "origin": "Monopol"
   },
   {
-   "title": "Drogensuche am meer: 150 Tonnen Kokain treiben vor der Atlantikküste – angeblich",
-   "summary": "Gesperrte Strände, Polizei in Alarmbereitschaft: Hunderte von Delinquenten treiben sich an der französischen Atlantikküste herum. Sie warten, dass eine enorme Menge Kokain antreibt – und befeuern eine Sicherheitsdebatte.",
-   "link": "https://www.faz.net/aktuell/feuilleton/debatten/kokain-an-frankreichs-atlantikkueste-hunderte-suchen-an-straenden-accg-201643253.html",
-   "date": "2026-11-02T13:19:20.000Z",
-   "source": "FAZ",
-   "author": "Niklas Maak",
-   "image": "https://media0.faz.net/image/170166d89119/w3691h2076x0y185/202611/ee3b4e5b-cfd2-4459-bf97-defddefcdb4b/niemand-weiss-was-ausser.webp",
-   "origin": "FAZ · Feuilleton"
-  },
-  {
    "title": "Kurioser Einsatz in Bretzfeld: Unbesetztes E-Auto erschreckt Frau mit Halloween-Musik und fieser Lache",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNekhxdTJjbHpHNE5jaUpPeWltQ1doNmQweTE0NEV1ajhsbnR6UlhyMHhtUW81S2NJejZkaGxHSmt4eVk2SnQtcVpvWmN4MENCdWlRcHlCWHd6U01mN3NmeUMzeDBlZzdpUGR3NW1FOXg1WnVFOGdpTEhYREM1OGVrWEctaUVrb2VyNU5WSTBXSkFDMVRjRVhXZTRFMm9mOG1TT0tIR1V6SHBlYXFhNWZvWTJ0RjkwaHNPbTVMWHA5TzBrZDRRX1hyVFVvTUpOTTI1UDdnVDlVbDVIZ1Y1VmJZZXBpUm9iZWFVSVc5d3hUVXQ?oc=5",
@@ -21356,16 +21414,6 @@
    "origin": "Google News · Insolito"
   },
   {
-   "title": "Briefauktion in München: König Ludwig hat es eilig",
-   "summary": "Als Chef war Bayernkönig Ludwig II. offenbar eine Plage: Briefe, die er beim Bau von Neuschwanstein, Herrenchiemsee und Linderhof schrieb, zeigen ihn als Monarchen, dem es nie schnell genug ging. Bald werden sie in München versteigert.",
-   "link": "https://www.faz.net/aktuell/feuilleton/kunstmarkt/auktion-briefe-ludwigs-ii-bei-hartung-hartung-accg-201626595.html",
-   "date": "2026-11-02T12:09:50.000Z",
-   "source": "FAZ",
-   "author": "Brita Sachs",
-   "image": "https://media0.faz.net/image/d28c54408e2e/w1940h1091x0y954/202611/a4afc563-96f5-401d-b52d-ee321435bce2/hier-schreibt-der.webp",
-   "origin": "FAZ · Feuilleton"
-  },
-  {
    "title": "Manipulierte Halloween-Süßigkeiten? Was Eltern jetzt tun sollten",
    "titleEn": "Needles in Halloween Sweets? What Parents Should Do Now",
    "summary": "Familien in ganz Deutschland berichten von gefährlichen Halloween-Süßigkeiten. Was wir wissen – und was Verbraucherschützer in NRW raten.",
@@ -21375,15 +21423,6 @@
    "author": "Sophie Sommer,Maren Schürmann",
    "image": "https://img.sparknews.funkemedien.de/413566704/413566704_1793615954_v16_9_600.jpeg",
    "origin": "WAZ Essen"
-  },
-  {
-   "title": "Reporter ohne Grenzen: Trump schafft es auf die Liste der „Feinde der Pressefreiheit“",
-   "summary": "Von der Pressefreiheit hält US-Präsident Donald Trump insgesamt wenig. Deshalb hat ihn die Organisation Reporter ohne Grenzen nun auf die Liste der weltweit größten „Feindinnen und Feinde der Pressefreiheit“ gesetzt.",
-   "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/donald-trump-auf-der-liste-der-groessten-feinde-der-pressefreiheit-accg-201643530.html",
-   "date": "2026-11-02T11:52:06.000Z",
-   "source": "FAZ",
-   "image": "https://media0.faz.net/image/b8a927022822/w5389h3031x0y430/202611/80c87363-c80f-4a9e-8db2-c11075bdb5df/haelt-sehr-viel-von-freier.webp",
-   "origin": "FAZ · Feuilleton"
   },
   {
    "title": "Tierisch herzlos – Kärnten gibt sogar diese Tiermamas zum Abschuss frei",
@@ -21408,15 +21447,6 @@
    "date": "2026-11-02T11:35:00.000Z",
    "source": "GameStar",
    "origin": "Google News · Kurioses"
-  },
-  {
-   "title": "Bake-off im Widerstand",
-   "summary": "Bake-off im Widerstand Saskia Trebing Mon, 11/02/2026 - 12:24",
-   "link": "https://www.monopol-magazin.de/kochkolumne-mohamed-amjahid-bake-im-widerstand",
-   "date": "2026-11-02T11:24:05.000Z",
-   "source": "Monopol",
-   "author": "Saskia Trebing",
-   "origin": "Monopol"
   },
   {
    "title": "Donald Trump: Kurioser Tränen-Moment auf der Bühne – \"mit Trump stimmt etwas nicht\"",
@@ -22326,16 +22356,6 @@
    "origin": "Google News · Kurioses"
   },
   {
-   "title": "The best recent translated fiction – review roundup",
-   "summary": "Minihorror by Barbi Marković; Paradise Burns by Pol Guasch; Hafni Says by Helle Helle; Googling for Soul by Hamid Ismailov Minihorror by Barbi Marković, translated by Jen Calleja (Faber, £14.99) This eccentric and fantastical collection of very short stories is bursting with weird life. Mini and…",
-   "link": "https://www.theguardian.com/books/2026/oct/30/the-best-recent-translated-fiction-review-roundup",
-   "date": "2026-10-30T12:00:53.000Z",
-   "source": "The Guardian",
-   "author": "John Self",
-   "image": "https://i.guim.co.uk/img/media/000bd487e76f2fedcc9bd41a36b76fa0671bfde1/597_196_4503_3602/master/4503.jpg?width=700&quality=85&auto=format&fit=max&s=31ecc5f733935e4a5475324c5fc21124",
-   "origin": "The Guardian · Books"
-  },
-  {
    "title": "Kurios: Doppeltes Doppel-Duell für Union Berlin am Wochenende!",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQlhsSHRfUUpqT0hrYWR5WWVkSEVvM21YbGM5Q0g1a1J6ZkkzOWxUNUFqRDhTa2FWLVBQb25PQ0JsVjdiRFdYMExKZ3pidTQ2bXZkdjNSMmNwYmtSUzBVYWtnUUVRci1vTFctdXBqYTUyM2hKUnVQQzJyZ1RpVlNMc3VaOUh6MXJVdGswazhtbzdiRHBUTnhzNQ?oc=5",
@@ -22348,14 +22368,6 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeTZudDkxLW9VbmRha0tTT2oyS1oxREtCeFJOVldtcTJoRUtITXh6cUlTOUFrdlN3dWdsUnR1Z3JpM2J1bUZYYTh6d2QtTjJsOF9DZzRXT0xkRFdPZjU3ODJnNDNKV2ZoV3FUWWtWai1RaGYwSkZKbU5DTm5mbk1OZmxMbnVqNW9kaTh3SVVEWml3UXVyNmpHRVFWNUdOLXVuRXY2ZU1md2hneDhQMjJOZEdMTHFQdHF4QVg0d0c0azdhNUpoZF9NcDBiSm85UUJJUVE?oc=5",
    "date": "2026-10-30T11:25:33.000Z",
-   "source": "Слободен печат",
-   "origin": "Google News · Insolito"
-  },
-  {
-   "title": "Re Carlo scoppiò a ridere fino alle lacrime quando ricevette alle Bahamas un regalo insolito che non aveva mai visto prima.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeUwtdGgxUUNMMjA1REhTSkdIUWhNNXhvNXhpTEw3Z3c3RHJNVDdNeWlkWDdpQ0tmUm1vYmR5MFQ5T29rYzlETW1OY0Z4TGdTWVBOR0xkR1p0UVpMQl9QTTRvWnZVN2NNRWNkVmkxYzNFWE5SZVFHeWI4SkZYb0ZneVRYcUN2Z0F6WnlrVTU0UTEtZFA5eEllY21nelpMZjR3M1J0M21ZRy10MElVVjB6c2loZ1pPUm41dDZQc1ptdzhLVlNqaFlQZzZma1VlTFo0OVpKSFN4MFQ?oc=5",
-   "date": "2026-10-30T10:58:23.000Z",
    "source": "Слободен печат",
    "origin": "Google News · Insolito"
   },
@@ -22402,16 +22414,6 @@
    "date": "2026-10-30T07:25:00.000Z",
    "source": "Comicschau",
    "origin": "Google News · Kurioses"
-  },
-  {
-   "title": "Attention Seeking Behaviour by Aea Varfis-van Warmelo review – a slippery liar’s tale",
-   "summary": "Shortlisted for the Goldsmiths prize, this compelling interrogation of memory, justice and truth offers no easy answers The Goldsmiths prize-shortlisted debut from British-Greek author Aea Varfis-van Warmelo opens with a confession: “I have never told this story before.” The narrator, who bears the…",
-   "link": "https://www.theguardian.com/books/2026/oct/30/attention-seeking-behaviour-by-aea-varfis-van-warmelo-review-a-slippery-liars-tale",
-   "date": "2026-10-30T07:00:48.000Z",
-   "source": "The Guardian",
-   "author": "Aimée Walsh",
-   "image": "https://i.guim.co.uk/img/media/704e06f95913b56d6e78950080384e2dd05ca6ac/92_52_836_669/master/836.jpg?width=700&quality=85&auto=format&fit=max&s=6e89d216cf4ff4bcf8c3d2bc4b61620d",
-   "origin": "The Guardian · Books"
   },
   {
    "title": "Welcher Kalender passt an deine Wand? 2027 wird tierisch, geheimnisvoll und überraschend",
@@ -22662,40 +22664,6 @@
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONEFyWFUwSjFWbk5vY0p0S1NDSF9fUTdMakhwNVVHdXVUTHNGeVV6aDc3X01FVXlkNFdNQnFGLW5MS0pZWEE5c0E5ZEd0aVF2Z3dKeEJUa2ppSW9wZ1ZmcVNRSmtLT1N5SmJBNHlXSTg4U1VjTDB1UnRvMTNmV1FhY0xrbEltQk9mb2d5a2NPNEcxV0RORkRNM0NselZiblpZYkJxLXl4Z252OEgxMVBNMVdYYllMRGs?oc=5",
    "date": "2026-10-29T13:45:00.000Z",
    "source": "Badische Zeitung",
-   "origin": "Google News · Kurioses"
-  },
-  {
-   "title": "Kurios: Rhein-Neckar Löwen setzen wieder auf Gensheimer",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMTl3Z1RRQVFKOWFBUEN3UWR1eXV1SzgxamlfYW8tTVBGNnA2WXk1T2lHX2Y4dlRjUkdOa24tN0s3bld5MGxFSjExQlFSY2pOLWlYTkFuV2VLaXFjZFloMTA3bzk1REl3MFNJbUxZWWhEZ1FoMlAweFB2NlYtQWJRLXpydi0tekdCZGQxRG04S3NhV3hEb19mZ09NTHBob2V6QjE0ZzFZZFIzUk1jQ0tuVEkyTlpDcGljZWV2VTZ1YS1mZ0s0TmFJZF8xelY2S3QzRTduaGs5VWQ0UQ?oc=5",
-   "date": "2026-10-29T13:28:15.000Z",
-   "source": "WELT",
-   "origin": "Google News · Kurioses"
-  },
-  {
-   "title": "Skurril: Alf Poier taucht bei Buchpräsentation als Mönch auf",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS0ViWHhxc0NNdDh4Q3B3VUN3S3p6VTU1dXdoUmZienJtWGVTclZRdWZFV0lZSTVLSVhDSllCSm5zeGJQa293ejRHeEtLM0FhSURTT3dHNDdMNDBjRUpsTFRTRHhGOUEta2RsaGxMWDBRWjQ5Ymhhd2NacDZOME8wVWNoeVp4OFFIS2s1V09JTFAydFd5MjV1NDRLS0FlSjJHSzhTNmJ0S2lsajhr?oc=5",
-   "date": "2026-10-29T12:56:00.000Z",
-   "source": "Kurier",
-   "origin": "Google News · Kurioses"
-  },
-  {
-   "title": "Alisa Weilerstein’s Cello",
-   "summary": "“ ‘It’s a bird, it’s a plane!’ people cried. No, just a cello on a moonlit flit.”",
-   "link": "https://www.theparisreview.org/blog/2026/10/29/alisa-weilersteins-cello-lucy-ellmann/",
-   "date": "2026-10-29T12:00:28.000Z",
-   "source": "The Paris Review",
-   "author": "Lucy Ellmann",
-   "image": "https://www.theparisreview.org/blog/wp-content/uploads/2026/10/alisa-1024x569.jpg",
-   "origin": "The Paris Review"
-  },
-  {
-   "title": "Kurios! Sportlicher Leiter wechselt ab sofort innerhalb der Oberliga",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSjQ2ZjRLb2FoTU1OdjFQMjFERW15TUFGT0JqMjhVNUtPVktveUliYkVSWnZuY3RlVDRfenk1SktuMllKTlJlVUVsQ0dzMml5RkJIVms4LUxza2RYSFczUEpmQVRfd1FuZUR5RzlGODRoZElGV0s5NHJ6ek9OYUJ6RnRKZk1MQVFQMFctTXZsRHNFX2FSRFFZSkdjYkdoa01SbEhJ?oc=5",
-   "date": "2026-10-29T11:31:46.000Z",
-   "source": "FuPa ⚽️",
    "origin": "Google News · Kurioses"
   },
   {
@@ -22980,6 +22948,111 @@
    "origin": "The Marginalian"
   },
   {
+   "title": "CCTV captures streets shaking as 5.7-magnitude earthquake hits Japan",
+   "summary": "A 5.7-magnitude earthquake struck central Japan, injuring more than 20 people.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/cctv-captures-streets-shaking-as-5-7-magnitude-earthquake-hits-japan?traffic_source=rss",
+   "date": "2026-11-08T13:11:41.000Z",
+   "source": "Al Jazeera",
+   "origin": "Al Jazeera"
+  },
+  {
+   "title": "Dai videogiochi alla cultura partecipativa. Fu così che il gaming cambiò il nostro modo di vivere",
+   "summary": "A M9- Museo del ’900 di Venezia Mestre, la mostra PLAYERS. Giochi, videogiochi, cultura e società ripercorre ottant’anni di evoluzione del videogioco, dai primi esperimenti elettronici alle piattaforme creative contemporanee. Il curatore Fabio Viola riflette sul rapporto tra tecnologia e società…",
+   "link": "https://www.artribune.com/arti-visive/2026/11/players-mostra-venezia-mestre/",
+   "date": "2026-11-08T13:00:00.000Z",
+   "source": "Artribune",
+   "author": "Laura Cocciolillo",
+   "image": "https://www.artribune.com/wp-content/uploads/2026/11/players4-1-scaled.jpg",
+   "origin": "Artribune"
+  },
+  {
+   "title": "Egypt reopens Tripoli embassy after 12 years and raises concerns over Turkey-Libya maritime deal",
+   "summary": "Egypt is seeking closer ties with Libya’s western government after years of backing its eastern rival. Talks in Tripoli covered energy projects and Egypt’s objections to Libya’s maritime deal with Turkey.",
+   "link": "https://www.euronews.com/2026/11/08/egypt-reopens-tripoli-embassy-after-12-years-and-raises-concerns-over-turkey-libya-maritim",
+   "date": "2026-11-08T12:50:28.000Z",
+   "source": "Euronews",
+   "image": "https://images.euronews.com/articles/stories/09/98/43/66/696x392_cmsv2_158de8f8-2605-5148-8d07-c3eece33b40f-9984366.jpg",
+   "origin": "Euronews"
+  },
+  {
+   "title": "Muere Richard Lloyd, guitarrista y miembro fundador del grupo Television, a los 75 años",
+   "summary": "El músico estadounidense fue una pieza clave del sonido de la banda y de la revolución del punk neoyorquino de los setenta",
+   "link": "https://elpais.com/cultura/2026-11-08/muere-richard-lloyd-guitarrista-y-miembro-fundador-del-grupo-television-a-los-75-anos.html",
+   "date": "2026-11-08T12:42:08.000Z",
+   "source": "El País",
+   "image": "https://imagenes.elpais.com/resizer/v2/4UZRPAQLFVHMLJNWYNRL3GYHU4.jpg?auth=dc81d4cb937e490e397b398474d7fb65dec10afe48c105abdaecbf9c406c14e3",
+   "origin": "El País · Cultura"
+  },
+  {
+   "title": "I’m the psychologist who warned the world about Trump. Here’s why I fear what comes next",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcDFhc0RJdUdybGxEWXdOV1RtaUIxaGVzQU5qUzRHMkF0Q1VWZFZhWFFfY3BON2s2dkJ1NzRIQkp1bUl4VkMzRkJSWFNtRHFBd2Q4b291VzNhVjlDYi1hS2RuYldYMVd1LXQzbVBnN3dhWlg3MVNIWkp1VWtIYWMxd09IaloxYTFZb0RON2d2LW1aNFBRSzBvWEZaZVJUdjVoVTNrMTJVbDJXcWN3NHk3TWVJSzRCZw?oc=5",
+   "date": "2026-11-08T12:28:00.000Z",
+   "source": "The Independent",
+   "origin": "Google News · World"
+  },
+  {
+   "title": "Egypt announces new Mediterranean gas field discovery estimated at 200 billion cubic feet",
+   "summary": "The Ministry of Petroleum attributed the positive results to higher investment and exploration activity, noting a better investment climate and progress in settling overdue payments to foreign companies in the energy sector.",
+   "link": "https://www.euronews.com/2026/11/08/egypt-announces-new-mediterranean-gas-field-discovery-estimated-at-200-billion-cubic-feet",
+   "date": "2026-11-08T12:23:43.000Z",
+   "source": "Euronews",
+   "image": "https://images.euronews.com/articles/stories/09/98/39/01/696x392_cmsv2_8d0b3991-d15b-5471-9ffd-428662497d3c-9983901.jpg",
+   "origin": "Euronews"
+  },
+  {
+   "title": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
+   "summary": "About 850,000 people lose power after Russian attacks on energy infrastructure in Ukraine's Dnipropetrovsk and Kharkiv.",
+   "link": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss",
+   "date": "2026-11-08T12:20:17.000Z",
+   "source": "Al Jazeera",
+   "origin": "Al Jazeera"
+  },
+  {
+   "title": "South Africa’s ANC suffers setback in local elections",
+   "summary": "With 99 percent of votes counted, President Cyril Ramaphosa's party wins 31 percent nationally.",
+   "link": "https://www.aljazeera.com/news/2026/11/8/south-africas-anc-suffers-setback-in-local-elections?traffic_source=rss",
+   "date": "2026-11-08T12:19:14.000Z",
+   "source": "Al Jazeera",
+   "origin": "Al Jazeera"
+  },
+  {
+   "title": "ERC considering power-reserve trading price cap",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNY2JnekxfVkw3YThaVi1KaGtFTmp0LXBfTkthMHVycEdkMV9qMTQwMFM3M3YxaVdXeW5ZNTJXZURoQzFzVFA2MWNTVWNselRzZFNNY2F1M0Q3V2NVMlVLcllsRkUzamxtelpLLUNKa3ZBU0hmd2NwaHQ3RlVCMlAwT01JZGVhRmRSM1hmNVZzYXZ4QTlEbXN4bHlVWVVNazFw?oc=5",
+   "date": "2026-11-08T12:18:00.000Z",
+   "source": "BusinessWorld Online",
+   "origin": "Google News · Energy"
+  },
+  {
+   "title": "Sono tornate le mappe Art Radar: dopo Roma e Milano c’è anche Torino (e arriveranno Bologna e Venezia)",
+   "summary": "Tre città, centinaia di luoghi da scoprire e un progetto editoriale in continua espansione. Dopo le nuove edizioni di Roma e Milano, Art Radar è arrivato a Torino in occasione della settimana dell'arte. E il progetto continua nel 2027 con nuove uscite a Bologna e Venezia. Con Firenze e Napoli…",
+   "link": "https://www.artribune.com/progettazione/2026/11/art-radar-mappe-culturali-artribune-bologna-venezia-2027/",
+   "date": "2026-11-08T12:00:00.000Z",
+   "source": "Artribune",
+   "image": "https://www.artribune.com/wp-content/uploads/2026/11/foto1.png",
+   "origin": "Artribune"
+  },
+  {
+   "title": "‘10 times more painful’: Menstrual disorders fuel calls to ban tear gas at French protests",
+   "summary": "French police have made extensive use of tear gas during protests that have roiled France in recent weeks, sometimes causing grievous injuries. Thousands of accounts of women experiencing acutely painful periods and increased bleeding are further challenging assumptions that the chemical irritant…",
+   "link": "https://www.france24.com/en/france/20261108-abnormal-menstraution-periods-fuel-calls-ban-tear-gas-french-protests-police",
+   "date": "2026-11-08T11:53:14.000Z",
+   "source": "France 24",
+   "author": "Benjamin DODMAN",
+   "image": "https://s.france24.com/media/display/a664e012-da11-11f1-ab05-695cb59fade5/w:1024/p:16x9/000-D3LF967.jpg",
+   "origin": "France 24"
+  },
+  {
+   "title": "US forces strike commercial vessel in Gulf of Oman after crew 'ignored repeated warnings'",
+   "summary": "The UKMTO maritime agency said late on Saturday that it had received a report of an incident involving a bulk carrier and military forces in the gulf.",
+   "link": "https://www.euronews.com/2026/11/08/us-forces-strike-commercial-vessel-in-gulf-of-oman-after-crew-ignored-repeated-warnings",
+   "date": "2026-11-08T11:41:13.000Z",
+   "source": "Euronews",
+   "image": "https://images.euronews.com/articles/stories/09/98/41/07/696x392_cmsv2_1a31f037-5292-5b2f-a0de-0110b34e7b49-9984107.jpg",
+   "origin": "Euronews"
+  },
+  {
    "title": "Russian strikes leave 600,000 in the dark in eastern Ukraine",
    "summary": "Ukrainian President Volodymyr Zelenskyy called for further sanctions on Russia ahead of talks in Abu Dhabi.",
    "link": "https://www.politico.eu/article/russian-strikes-leave-600000-in-the-dark-in-eastern-ukraine-dnipropetrovsk/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -23013,14 +23086,6 @@
    "summary": "The Argentinian scored 26 goals in regular season, topping the charts and leading Inter Miami to the MLS Cup playoffs.",
    "link": "https://www.aljazeera.com/sports/2026/11/8/messi-becomes-first-player-to-win-back-to-back-mls-golden-boot-awards?traffic_source=rss",
    "date": "2026-11-08T10:50:12.000Z",
-   "source": "Al Jazeera",
-   "origin": "Al Jazeera"
-  },
-  {
-   "title": "After rebel offensive, efforts to push them back appear to have stalled",
-   "summary": "Saudi air power so far hasn't been enough for Yemen's government, and civilians are increasingly stuck in the middle",
-   "link": "https://www.aljazeera.com/video/project-force-2/2026/11/8/after-rebel-offensive-efforts-to-push-them-back-appear-to-have-stalled?traffic_source=rss",
-   "date": "2026-11-08T10:28:08.000Z",
    "source": "Al Jazeera",
    "origin": "Al Jazeera"
   },
@@ -23062,53 +23127,6 @@
    "origin": "WAZ Essen"
   },
   {
-   "title": "Donald Trump wants UFC fighters as assistants",
-   "summary": "After a series of combative press briefings between the Trump administration and journalists, the US president surprised many by reportedly offering Dana White, the head of the Ultimate Fighting Championship (UFC) and a longtime friend, the role of White House press secretary. Trump praised White…",
-   "link": "https://www.france24.com/en/donald-trump-wants-ufc-fighters-as-assistants",
-   "date": "2026-11-08T09:44:28.000Z",
-   "source": "France 24",
-   "author": "FRANCE24",
-   "image": "https://s.france24.com/media/display/ad7ce2ee-db58-11f1-b2b1-d18c5759e759/w:1024/p:16x9/EN-20261108-101159-101400-CS.jpg",
-   "origin": "France 24"
-  },
-  {
-   "title": "Israel's Arab-led parties gain influence",
-   "summary": "Arab-led parties have endorsed Gadi Eisenkot despite his ruling out a coalition with them. Their support is driven by a shared goal: removing Benjamin Netanyahu from power. But could these parties ultimately hold the balance of power in forming Israel's next government? Antonia Kerrigan reports.",
-   "link": "https://www.france24.com/en/israel-s-arab-led-parties-gain-influence",
-   "date": "2026-11-08T09:43:26.000Z",
-   "source": "France 24",
-   "author": "FRANCE24",
-   "image": "https://s.france24.com/media/display/dec0c3da-db57-11f1-b79b-bf1914cabd52/w:1024/p:16x9/EN-20261108-100714-100924-CS.jpg",
-   "origin": "France 24"
-  },
-  {
-   "title": "Gaza: Heavy rain inundates thousands of tents",
-   "summary": "Heavy rainfall has flooded thousands of tents sheltering displaced Palestinians across the Gaza Strip, including in Deir al-Balah. Residents say overflowing sewage has mixed with the floodwater, further worsening already dire living conditions. Families are struggling to salvage their belongings…",
-   "link": "https://www.france24.com/en/gaza-heavy-rain-inundates-thousands-of-tents",
-   "date": "2026-11-08T09:42:03.000Z",
-   "source": "France 24",
-   "author": "FRANCE24",
-   "image": "https://s.france24.com/media/display/25796fa2-db58-11f1-946f-695cb59fade5/w:1024/p:16x9/EN-20261108-100942-101123-CS.jpg",
-   "origin": "France 24"
-  },
-  {
-   "title": "Security Sunday: Die neue Front der Bundeswehr in Litauen – mit Robertas Kaunas",
-   "summary": "Eingeklemmt zwischen Kaliningrad und Belarus liegt die verwundbarste Stelle der NATO. Genau hier entsteht mit der Panzerbrigade 45 das wohl wichtigste Projekt der deutschen Zeitenwende. Bis 2027 sollen fast 5.000 deutsche Soldaten dauerhaft in Litauen stationiert werden. Doch die Bedrohung durch…",
-   "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/security-sunday-die-neue-front-der-bundeswehr-in-litauen-mit-robertas-kaunas/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "date": "2026-11-08T09:30:58.000Z",
-   "source": "POLITICO Europe",
-   "author": "Rixa Fürsen",
-   "origin": "POLITICO Europe"
-  },
-  {
-   "title": "Floods in Gaza leave tens of thousands without shelter",
-   "summary": "Civil Defence reports over 1,500 emergency calls as thousands of tents and shelters destroyed after heavy rains.",
-   "link": "https://www.aljazeera.com/news/2026/11/8/floods-in-gaza-leave-tens-of-thousands-without-shelter?traffic_source=rss",
-   "date": "2026-11-08T09:28:52.000Z",
-   "source": "Al Jazeera",
-   "origin": "Al Jazeera"
-  },
-  {
    "title": "Sonntagsfrage: Was hat Trump hier gerade unterschrieben?",
    "summary": "Was sieht aus, als habe ein kokainsüchtiges Kleinkind einen Edding in die Finger bekommen? Richtig: die Unterschrift des mächtigsten Mannes der Welt. Aber was hat Donald Trump hier eigentlich genau unterzeichnet? Diesmal möchte der Unterschriftillon (unterstützt durch Executive Control ) von Ihnen…",
    "link": "https://api.follow.it/track-rss-story-click/v3/hVR569XapuTmPn661xY7xLJZ3tATHmkc?utm_source=follow.it",
@@ -23135,46 +23153,6 @@
    "author": "Margherita Cuccia",
    "image": "https://www.artribune.com/wp-content/uploads/2026/11/2-future-flora08photo-creditgiulia-tomasello-scaled.jpg",
    "origin": "Artribune"
-  },
-  {
-   "title": "Rent-a-grandchild: Businesses offering companions to elderly grow in India",
-   "summary": "A small but growing number of firms selling what families once took for granted: someone to take care of the seniors.",
-   "link": "https://www.aljazeera.com/news/2026/11/8/rent-a-grandchild-businesses-offering-companions-to-elderly-grow-in-india?traffic_source=rss",
-   "date": "2026-11-08T08:57:49.000Z",
-   "source": "Al Jazeera",
-   "origin": "Al Jazeera"
-  },
-  {
-   "title": "Khawaja denies throwing ‘anyone under the bus’ over Sandpapergate scandal",
-   "summary": "Australian cricketer defends waiting so long to place blame, denying it was a marketing ploy to sell his book.",
-   "link": "https://www.aljazeera.com/sports/2026/11/8/khawaja-denies-throwing-anyone-under-the-bus-over-sandpapergate-scandal?traffic_source=rss",
-   "date": "2026-11-08T08:57:45.000Z",
-   "source": "Al Jazeera",
-   "origin": "Al Jazeera"
-  },
-  {
-   "title": "‘Don’t bring your camera’: Filmmakers face extortion in Lagos",
-   "summary": "Filmmakers and journalists say threats on Lagos streets is making it harder to tell the city’s stories.",
-   "link": "https://www.aljazeera.com/news/2026/11/8/dont-bring-your-camera-filmmakers-face-extortion-in-lagos?traffic_source=rss",
-   "date": "2026-11-08T08:56:04.000Z",
-   "source": "Al Jazeera",
-   "origin": "Al Jazeera"
-  },
-  {
-   "title": "Hossam Hassan sacked as Egypt head coach over ex-wife scandal",
-   "summary": "A series of controversies surrounding Hassan's marital life left a 'negative impact' on the team, Egyptian FA says.",
-   "link": "https://www.aljazeera.com/sports/2026/11/8/hossam-hassan-sacked-as-egypt-head-coach-over-ex-wife-scandal?traffic_source=rss",
-   "date": "2026-11-08T08:42:16.000Z",
-   "source": "Al Jazeera",
-   "origin": "Al Jazeera"
-  },
-  {
-   "title": "US military attacks cargo ship in the Gulf of Oman",
-   "summary": "The US military says it has fired on and disabled a St. Kitts-flagged cargo ship in the Gulf of Oman.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/us-military-attacks-cargo-ship-in-the-gulf-of-oman?traffic_source=rss",
-   "date": "2026-11-08T08:24:37.000Z",
-   "source": "Al Jazeera",
-   "origin": "Al Jazeera"
   },
   {
    "title": "„Ruhrpott-Dramatik“: So endet das NOW-Festival in der Philharmonie",
@@ -23206,20 +23184,20 @@
    "origin": "Artribune"
   },
   {
-   "title": "Saudi Aramco building in Riyadh damaged in ‘attempted’ attack",
-   "summary": "Saudi Arabia's energy ministry says building in the capital was damaged by falling shrapnel, state media reported.",
-   "link": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss",
-   "date": "2026-11-08T07:40:07.000Z",
-   "source": "Al Jazeera",
-   "origin": "Al Jazeera"
-  },
-  {
    "title": "QatarEnergy in Talks to Secure Up to 2 mtpa of LNG From NextDecade’s Texas Project",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPME1FV2xpUW9XQlRkRlB3QUZNVVVCSEVCWkdQeTRjWURLT3ExanZfTU5RMEtIT2hNOXB1V3h0SU9NeC1WVVpqVlZ2UUw2Nnl6MFF3aFljYWh1a3JtLWV2QmFWZkZnZkJQVTNMTXpJN3psRjMzQ1JZWGVYTlltX1FzNUFVMkNwTzFlUUpkSlluR2Z4ajJHRDVWbUhRZ01CclFxSVJtM1R6T2NmNkhiREFXVjFn?oc=5",
    "date": "2026-11-08T07:24:18.000Z",
    "source": "Egypt Oil & Gas",
    "origin": "Google News · Energy"
+  },
+  {
+   "title": "Bollette, fumo, giochi e azioni: in arrivo 5 miliardi di micro-tasse",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQblU4RlE4YlFEYlNGUU03RTdwZFFRbHc5UjI4bXVsTzUwZ0RCUzcxRlRoMEhSVVRocnMwdjJCVm9BV3JidkNQVFJUSnZJZ3NtQk91VHcxT3RCeFFBUmlRNGN0bmNGb3NKaURnSnRDWHVGbi0yaEpjaU1MLUdwSnhIZV9QOGp2UVk2M3FmcWRwTWsxbmxqZ1lTQW40aXpqY0thZWNGZnZR?oc=5",
+   "date": "2026-11-08T07:23:07.000Z",
+   "source": "Sole 24 Ore plus",
+   "origin": "Google News · Energia"
   },
   {
    "title": "„Fast & Furious“-Filmreihe wird 25 – Originalautos kommen zur Essen Motor Show",
@@ -23249,6 +23227,15 @@
    "origin": "Google News · Energy"
   },
   {
+   "title": "Libri per ragazzi, la Schiappa numero 20 è già bestseller",
+   "summary": "Appena uscito, il volume numero 20 della saga di Jeff Kinney conquista subito un posto nella top ten dei più letti dai giovanissimi",
+   "link": "https://www.repubblica.it/robinson/2026/11/08/news/libri_per_ragazzi_diario_di_una_schiappa_festa_da_incubo_jeff_kinney-425706848/?rss",
+   "date": "2026-11-08T06:00:00.000Z",
+   "source": "la Repubblica",
+   "image": "https://www.repstatic.it/content/nazionale/img/2026/11/07/151833510-5027ff58-f1be-4c21-9a56-fc1a8aaea108.jpg",
+   "origin": "la Repubblica · Cultura"
+  },
+  {
    "title": "Gas, bollette oltre i 1.000 euro a Nordest: aumenti superiori al 30 per cento",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdFRnNHRFcWhteExodUxpYlV0dlBGX2x2SHhkZ1VwdHJqMXpPX0tmVXRMeEF4Qm51cjB0ZC1Xd3ZSNjNwazY0V3dnNE5helZPaWhyUENSMWJXckhZbHdTNVRQQTZzMTFxcWVFSG44dVQwU1RPdDhRdFBkNTlfc1hwazR2ZW5qakZobldpdnhMODZjZlUtN3pwT1luTk82ZmFwNjNzSnln?oc=5",
@@ -23271,6 +23258,14 @@
    "date": "2026-11-08T05:28:01.000Z",
    "source": "Business Day",
    "origin": "Google News · Energy"
+  },
+  {
+   "title": "Bollette, decreto arriva in Cdm. Boom dei costi e possibili risparmi",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zQm9CaVFfV0piQTA5QWt5WXE5SUo4d1FidmZrU184VENRajNHT0xHYmc4Ti1zVlZ1ek4zaE9ZbF9nZUFEOEhESFZBRWk2M1VQZWtBWkNZTkY1VmV0ZXJjMTRyaUx0bFkyTng4eGlpWk82OHVYSHp4WExIZw?oc=5",
+   "date": "2026-11-08T05:15:22.000Z",
+   "source": "Sky TG24",
+   "origin": "Google News · Energia"
   },
   {
    "title": "EU household gas prices fall to lowest level since 2022 — Cyprus Mail",
@@ -23354,6 +23349,14 @@
    "source": "la Repubblica",
    "image": "https://www.repstatic.it/content/nazionale/img/2026/11/08/011253715-5c91de6d-bd28-4af0-8ba9-e5489d22500a.jpg",
    "origin": "la Repubblica · Cultura"
+  },
+  {
+   "title": "È morto a 75 anni Richard Lloyd, chitarrista della band punk rock dei Television",
+   "summary": "",
+   "link": "https://www.ilpost.it/2026/11/07/richard-lloyd-television-band-morto/",
+   "date": "2026-11-07T22:22:00.000Z",
+   "source": "Il Post",
+   "origin": "Il Post · Cultura"
   },
   {
    "title": "A Roma la nuova opera dello street artist Ortro è durata meno di due giorni. Poi distrutta",
@@ -23777,16 +23780,6 @@
    "origin": "Google News · Power markets"
   },
   {
-   "title": "Leonor Watling (con Leo Sidrán): \"Tengo músculo de leer horas y mis hijos ya no tienen ninguna oportunidad frente a las pantallas\"",
-   "summary": "La actriz y cantante y el músico estadounidense se han unido para el disco 'Leo & Leo' que está funcionando muy bien. Old school, les llaman (en positivo). Esta noche actúan en el UMusic de Madrid dentro del Jazzmadrid",
-   "link": "https://www.elconfidencial.com/cultura/2026-11-07/leonor-watling-leo-sidran-cbtrntrv_4460158/",
-   "date": "2026-11-07T04:00:00.000Z",
-   "source": "El Confidencial",
-   "author": "Paula Corroto",
-   "image": "https://images.ecestaticos.com/LP_7vQtX5hIB-C0s49U7_ZWdYlg=/0x336:2000x1461/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F292%2F5d1%2F982%2F2925d19825e5e3b41acb29adddbf8f03.jpg",
-   "origin": "El Confidencial · Cultura"
-  },
-  {
    "title": "„Reine Pinkelecke“: Gastronom verzweifelt über Weihnachtsmarkt vor seinem Lokal",
    "titleEn": "\"Reine Peedelecke\": restaurateur desperate about Christmas market in front of his restaurant",
    "summary": "Glasscherben, das Karussell gleich vor dem Lokal, die Anlieferung erschwert: Steeler Geschäftsmann klagt über den Aufbau auf dem Weihnachtsmarkt. Das bedrohe seine Existenz.",
@@ -23796,6 +23789,16 @@
    "author": "Dominika Sagan",
    "image": "https://img.sparknews.funkemedien.de/413594167/413594167_1793895927_v16_9_600.jpeg",
    "origin": "WAZ Essen"
+  },
+  {
+   "title": "Leonor Watling (con Leo Sidrán): \"Tengo músculo de leer horas y mis hijos ya no tienen ninguna oportunidad frente a las pantallas\"",
+   "summary": "La actriz y cantante y el músico estadounidense se han unido para el disco 'Leo & Leo' que está funcionando muy bien. Old school, les llaman (en positivo). Esta noche actúan en el UMusic de Madrid dentro del Jazzmadrid",
+   "link": "https://www.elconfidencial.com/cultura/2026-11-07/leonor-watling-leo-sidran-cbtrntrv_4460158/",
+   "date": "2026-11-07T04:00:00.000Z",
+   "source": "El Confidencial",
+   "author": "Paula Corroto",
+   "image": "https://images.ecestaticos.com/LP_7vQtX5hIB-C0s49U7_ZWdYlg=/0x336:2000x1461/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F292%2F5d1%2F982%2F2925d19825e5e3b41acb29adddbf8f03.jpg",
+   "origin": "El Confidencial · Cultura"
   },
   {
    "title": "Three Italian Friends Fly 1,000 Miles to Ireland Dressed as 'Hobbits' To Return Man's Lost Wedding Ring",
@@ -23936,6 +23939,14 @@
    "origin": "Good News Network"
   },
   {
+   "title": "Netflix ha annunciato uno spinoff di Stranger Things",
+   "summary": "",
+   "link": "https://www.ilpost.it/2026/11/06/netflix-spinoff-stranger-things-other-worlds/",
+   "date": "2026-11-06T21:10:23.000Z",
+   "source": "Il Post",
+   "origin": "Il Post · Cultura"
+  },
+  {
    "title": "Georgia Power opens largest battery storage facility in the state",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX1pXM3YtcV9GRHhibnd6OHIyRzgwRzRaNDh0LVJsV183R2cxVTRYS3V4eWhyR3VyR3JfbnNBbEZWX2dYWnd2c1hkQVJLMlZZRGZ6d2FSOEdLWmlLQ1YyOTB3ZUhLOEU5dWlfSnBQOEtOS1E0N0E4M2pXejdGSmdFcG52NlREWXNwRWotR3M2YlN2ZFQyZUFxM1BaWHBmODdjR2RxMmhJZVR4eDVkZUtmZGVuamdZeVNwWjMyMzk1YXlydXhFOUZXd0tacjhBSzFSMGc?oc=5",
@@ -23952,16 +23963,6 @@
    "author": "Livia Montagnoli",
    "image": "https://www.artribune.com/wp-content/uploads/2026/11/diango-hernandezdarlene.jpg",
    "origin": "Artribune"
-  },
-  {
-   "title": "Sebastián Lelio was a fascinating film-maker of great passion and poetry",
-   "summary": "Chilean director of films including Gloria and A Fantastic Woman could expertly capture both the personal and political Sebastián Lelio, director of A Fantastic Woman and Gloria, dies aged 52 The last 20 years have seen an amazing flowering of creativity from Chilean film-makers. The standard…",
-   "link": "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-film-maker",
-   "date": "2026-11-06T20:56:41.000Z",
-   "source": "The Guardian",
-   "author": "Peter Bradshaw",
-   "image": "https://i.guim.co.uk/img/media/8f5dc8d9b0bc8514dd08fbb94c1401508a15ddde/247_0_1770_1417/master/1770.jpg?width=700&quality=85&auto=format&fit=max&s=d97d6878614a3180ded8f6c09c657728",
-   "origin": "The Guardian · Culture"
   },
   {
    "title": "Person of interest in Defence Forces underwear investigation admitted masturbating in TK Maxx",
@@ -24547,6 +24548,15 @@
    "origin": "r/nottheonion"
   },
   {
+   "title": "Abu Dhabi’s clean energy has grown over 1000% in five years",
+   "summary": "Nuclear, solar and wind power have helped transform Abu Dhabi’s electricity mix",
+   "link": "https://www.energylivenews.com/2026/11/06/abu-dhabis-clean-energy-has-grown-over-1000-in-five-years/",
+   "date": "2026-11-06T10:00:00.000Z",
+   "source": "Energy Live News",
+   "author": "Skye Morley",
+   "origin": "Energy Live News"
+  },
+  {
    "title": "Il cinema d’artista come atto di resistenza. Intervista sul programma del festival “Lo schermo dell’arte” 2026 a Firenze",
    "summary": "Dalle memorie d’archivio dell'Uzbekistan con Saodat Ismailova alle proiezioni tra i fossili del Museo di Geologia e Paleontologia: la direttrice Silvia Lucchesi illustra i temi e le urgenze del festival L’articolo \" Il cinema d’artista come atto di resistenza. Intervista sul programma del festival…",
    "link": "https://www.artribune.com/arti-performative/cinema/2026/11/schermo-arte-2026-programma-cinema-artista-firenze/",
@@ -24787,6 +24797,15 @@
    "origin": "Il Sole 24 Ore · Cultura"
   },
   {
+   "title": "Educazione di un giovane fascista: Andrea Oriente racconta la formazione dell’estrema destra",
+   "summary": "Con “La nostra giovinezza” l’autore analizza come funziona l’indottrinamento fino alla dura disillusione del protagonista",
+   "link": "https://www.repubblica.it/robinson/2026/11/06/news/andrea_oriente_libro_la_nostra_giovinezza_formazione_estrema_destra-425701694/?rss",
+   "date": "2026-11-06T06:00:00.000Z",
+   "source": "la Repubblica",
+   "image": "https://www.repstatic.it/content/nazionale/img/2026/11/05/150805493-838b618d-db77-44c9-9284-e3cd67bd2c68.jpg",
+   "origin": "la Repubblica · Cultura"
+  },
+  {
    "title": "María Gómez, psicóloga, sobre lo que es cierto y lo que no en 'La bola negra': \"Es una ucronía\"",
    "summary": "La profesional sanitaria comenta la obra de Javier Calvo y Javier Ambrossi, y advierte sobre el peligro de quedarse con una única interpretación de la historia",
    "link": "https://www.elconfidencial.com/cultura/cine/2026-11-06/la-bola-negra-maria-gomez-psicologa-ucronia-1qrt_4459404/",
@@ -24795,15 +24814,6 @@
    "author": "El Confidencial",
    "image": "https://images.ecestaticos.com/ett7SWC4NUjp6a0Y-jp_0TYmZ74=/0x0:598x340/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F0df%2Fb43%2F954%2F0dfb43954f0ef2aa262a33eec6493c28.jpg",
    "origin": "El Confidencial · Cultura"
-  },
-  {
-   "title": "Educazione di un giovane fascista: Andrea Oriente racconta la formazione dell’estrema destra",
-   "summary": "Con “La nostra giovinezza” l’autore analizza come funziona l’indottrinamento fino alla dura disillusione del protagonista",
-   "link": "https://www.repubblica.it/robinson/2026/11/06/news/andrea_oriente_libro_la_nostra_giovinezza_formazione_estrema_destra-425701694/?rss",
-   "date": "2026-11-06T06:00:00.000Z",
-   "source": "la Repubblica",
-   "image": "https://www.repstatic.it/content/nazionale/img/2026/11/05/150805493-838b618d-db77-44c9-9284-e3cd67bd2c68.jpg",
-   "origin": "la Repubblica · Cultura"
   },
   {
    "title": "Daily News Wrap-Up: Battery Storage, Hybrid Projects Lead Q3 Auctions",
@@ -27418,16 +27428,6 @@
    "origin": "r/nottheonion"
   },
   {
-   "title": "Cristina Fernández Cubas, Premio Cervantes 2026",
-   "summary": "La gran maestra del cuento en español obtiene el máximo galardón literario de las letras hispanoamericanas, dotado con 125.000 euros",
-   "link": "https://elpais.com/cultura/2026-11-03/fallo-del-premio-cervantes-2026-por-ernest-urtasun.html",
-   "date": "2026-11-03T18:28:48.000Z",
-   "source": "El País",
-   "author": "Andrea Aguilar",
-   "image": "https://imagenes.elpais.com/resizer/v2/HXXXBCLUBBEAFLM3SN7D6Q7COM.jpg?auth=80d049d66e6164f31a568817b5dc17c32e087576481ad3ea0c704f09c4000aa0",
-   "origin": "El País · Cultura"
-  },
-  {
    "title": "Google to cut Search access for schools that completely block new AI tools",
    "summary": "",
    "link": "https://www.reddit.com/r/nottheonion/comments/1xn0j2t/google_to_cut_search_access_for_schools_that/",
@@ -27732,16 +27732,6 @@
    "origin": "Google News · Power markets"
   },
   {
-   "title": "Ecco come sarà il nuovo Museo Sironi di Roma nell’edificio progettato da Marcello Piacentini (vicino a Castel Sant’Angelo)",
-   "summary": "Sarà la Casa Madre dei Mutilati e Invalidi di Guerra di Roma, in piazza Adriana, ad accogliere il museo dedicato al percorso artistico di Mario Sironi, progetto voluto dal Ministro Giuli e realizzato in collaborazione con l’Archivio Mario Sironi. Gli spazi, i temi, le anticipazioni L’articolo \"…",
-   "link": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/11/nuovo-museo-sironi-roma/",
-   "date": "2026-11-03T12:30:00.000Z",
-   "source": "Artribune",
-   "author": "Livia Montagnoli",
-   "image": "https://www.artribune.com/wp-content/uploads/2026/11/la-casa-madre-dei-mutilati-e-invalidi-di-guerra-a-roma-sara-sede-del-museo-sironi.jpg",
-   "origin": "Artribune"
-  },
-  {
    "title": "Milliardenförderung für 11 neue Gaskraftwerke – Schkopau geht leer aus",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdEt2a19aS2thMXVwRzhmVmg3cFJITlJSc3ZkNnVfeExpeW9xT25KSGRuRGtES3ZXTGwzazY4MVJpWDgxYW54VHVHWkNQLUV0aTduNkFpSXJTUFA3R1VwT21iLU03VktWY3B5Rnl6Z3VPeHU2Sm5UZkt6ODUtajBzZDBCWFEtU1FZN0VPb1VwVlBqejljUEk1Rlp3?oc=5",
@@ -27794,15 +27784,6 @@
    "origin": "Der Postillon"
   },
   {
-   "title": "L’archeologo Luca Mercuri sarà alla guida dell’importante Direzione Musei del Ministero della Cultura (al posto di Massimo Osanna)",
-   "summary": "Classe 1980, una formazione tra archeologia classica e storia dell’arte e una carriera costruita all’interno del Ministero della Cultura: Mercuri succede a Massimo Osanna dopo aver diretto istituti di primo piano, dal Pantheon a Castel Sant’Angelo, fino alla Direzione regionale Musei della Puglia…",
-   "link": "https://www.artribune.com/arti-visive/archeologia-arte-antica/2026/11/luca-mercuri-nuovo-direttore-musei-ministero-cultura/",
-   "date": "2026-11-03T11:30:00.000Z",
-   "source": "Artribune",
-   "image": "https://www.artribune.com/wp-content/uploads/2026/11/luca-mercuri.jpg",
-   "origin": "Artribune"
-  },
-  {
    "title": "Erste Auktion: Bundesnetzagentur vergibt Zuschläge für Gaskapazitäten",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcDRiTWtjY1dlWVNrRFJUUC12V3NNdExPX0tpSEVBOWFtUVZUeXlWbzlIblJkV0dJYnNkenNySzBHWnlVdWpEX1djdDFhZWNBY0tQZnpRTm0zZWhZZDh2NlkzQ2o0X2RMcVFRYkRiQUt4RnVFWkNnZGdLYnh0dFBGS2hOWUZGNFlzcEpJbjdkdkxEWDA4eE9EcUNxZTdZYTZMa1FGaUFSVy1zaFBOMGRSOVpOTlJaRkJkSGMydlRhc3Z2Zw?oc=5",
@@ -27853,16 +27834,6 @@
    "date": "2026-11-03T11:00:08.000Z",
    "source": "Mercomindia.com",
    "origin": "Google News · Power markets"
-  },
-  {
-   "title": "Fare arte è un processo di ingrandimento. Intervista all’artista Cristina Pancini",
-   "summary": "È una pratica altamente sperimentale quella di Cristina Pancini, la protagonista del nuovo appuntamento della rubrica “Dialoghi di Estetica”. In questa intervista ci racconta come l’opera d’arte non sia mai un risultato finito, ma piuttosto qualcosa di perennemente modificabile, ripensabile…",
-   "link": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/11/cristina-pancini-intervista/",
-   "date": "2026-11-03T11:00:00.000Z",
-   "source": "Artribune",
-   "author": "Davide Dal Sasso",
-   "image": "https://www.artribune.com/wp-content/uploads/2026/11/05-scaled.jpg",
-   "origin": "Artribune"
   },
   {
    "title": "Bundesnetzagentur vergibt Kraftwerks-Zuschläge",
@@ -28008,16 +27979,6 @@
    "origin": "Open Culture"
   },
   {
-   "title": "Teatro e performance: 12 festival e spettacoli da non perdere a novembre 2026",
-   "summary": "Rassegne, festival e il debutto di spettacoli che puntano a lasciare il segno nella stagione teatrale 2026-27 appena iniziata. Teatro ma anche danza contemporanea, circo aereo e una suggestiva mostra performativa L’articolo \" Teatro e performance: 12 festival e spettacoli da non perdere a novembre…",
-   "link": "https://www.artribune.com/arti-performative/2026/11/spettacoli-festival-novembre-2026/",
-   "date": "2026-11-03T09:00:00.000Z",
-   "source": "Artribune",
-   "author": "Laura Bevione",
-   "image": "https://www.artribune.com/wp-content/uploads/2026/11/screenshot-2026-11-03-084713.png",
-   "origin": "Artribune"
-  },
-  {
    "title": "Bundesnetzagentur gibt für neue Kraftwerke erste Zuschläge",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSHNyMmgtT0VCcEo5b0RERV81Q1BodVItSmZrVXQyZ0lySFo5VnI2SkNKdnJBR2xLRWVZNXk3ckc1ckd5N2FFR201ZmVsY2lVZGlMbXVzZi1LTHZHaFpLcHIwNjN1NnFPY2Zqa3VCTWdkQ2hfSk5UaXFVeUs2NEN3bzNXMXJIZFByRnVseUkxdTVTOUkwbmo2Q2ZOemFZU2tjM2dseFdCc19tZXVObFNfNmYyMlRCYUNYN2J1aWdQLS1FRTRf?oc=5",
@@ -28089,26 +28050,6 @@
    "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2013/08/Wizard_of_Oz_road_WS.jpg",
    "imgChecked": true,
    "origin": "Good News Network"
-  },
-  {
-   "title": "La Galleria Planetario di Trieste festeggia 50 anni. Intervista al fondatore",
-   "summary": "Da Picasso a Vedova, da Sonia Delaunay a Bonalumi: la galleria fondata da Livio e Clara Radin celebra mezzo secolo di attività con una mostra che ripercorre le tappe della sua storia. Le immagini L’articolo \" La Galleria Planetario di Trieste festeggia 50 anni. Intervista al fondatore \" è apparso…",
-   "link": "https://www.artribune.com/professioni-e-professionisti/who-is-who/2026/11/galleria-planetario-trieste-intervista-livio-radin/",
-   "date": "2026-11-03T08:00:00.000Z",
-   "source": "Artribune",
-   "author": "Valentina Muzi",
-   "image": "https://www.artribune.com/wp-content/uploads/2026/11/la-galleria-planetario-a-trieste-1.jpg",
-   "origin": "Artribune"
-  },
-  {
-   "title": "Per presentare la sua nuova vettura elettrica, Jaguar ha scelto una fiera d’arte",
-   "summary": "Alla 33esima edizione della fiera torinese Artissima, Jaguar racconta per la prima volta in Europa la sua nuova GT elettrica con l’installazione 01 of a Kind. Un progetto che fa dialogare automotive, architettura e design L’articolo \" Per presentare la sua nuova vettura elettrica, Jaguar ha scelto…",
-   "link": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/11/type-01-jaguar-artissima-2026-torino-installazione/",
-   "date": "2026-11-03T08:00:00.000Z",
-   "source": "Artribune",
-   "author": "Caterina Angelucci",
-   "image": "https://www.artribune.com/wp-content/uploads/2026/11/10jaguarartissimasaywhoniccolocampitanck2823-1-scaled.jpg",
-   "origin": "Artribune"
   },
   {
    "title": "Konzertreihe im Untergrund: Urbahn Music lockt mit noch geheimem Special Guest",
@@ -29559,44 +29500,42 @@
    "origin": "WAZ Essen"
   },
   {
-   "title": "Stefanie Heinzmann in Essen: Konzert wird zur Therapiestunde mit gefeierten Hits",
-   "titleEn": "Stefanie Heinzmann in Essen: Concert becomes a therapy session with celebrated hits",
-   "summary": "Stefanie Heinzmann singt und spricht auf ihrer „Circles“-Tour in der Essener Lichtburg über Achtsamkeit, Zweierbeziehungen und ihr Vorhaben, 96 Jahre alt zu werden",
-   "link": "https://www.waz.de/lokales/essen/article413514455/stefanie-heinzmann-in-essen-konzert-wird-zur-therapiestunde-mit-gefeierten-hits.html",
-   "date": "2026-10-29T13:11:07.000Z",
-   "source": "WAZ Essen",
-   "author": "Bernd Schuknecht",
-   "image": "https://img.sparknews.funkemedien.de/413539277/413539277_1793279467_v16_9_600.jpeg",
-   "origin": "WAZ Essen"
+   "title": "Friedenspreis für das iranische Volk: Falsche Intoleranz bei den Linken",
+   "summary": "Wegen Anschlagsdrohungen stand der Auftritt von Pahlavi auf der Kippe. Dann schützte die Frankfurter Polizei die Veranstaltung doch. Das war richtig. mehr...",
+   "link": "https://taz.de/Friedenspreis-fuer-das-iranische-Volk/!6228369/",
+   "date": "2026-11-08T13:32:00.000Z",
+   "source": "taz",
+   "author": "Teseo La Marca",
+   "image": "https://taz.de/picture/8850783/948/42503981.jpeg",
+   "origin": "taz"
   },
   {
-   "title": "„Nach Damaskus“: Das Museum Folkwang holt verborgene Schätze ans Licht",
-   "titleEn": "\"After Damascus\": The Folkwang Museum brings hidden treasures to light",
-   "summary": "Das Museum Folkwang widmet Karl Ernst Osthaus und seiner Begeisterung für die islamischen Künste eine großangelegte Schau, die auch die eigene Sammlungsgeschichte beleuchtet.",
-   "link": "https://www.waz.de/lokales/essen/article413525814/nach-damaskus-das-museum-folkwang-holt-verborgene-schaetze-ans-licht.html",
-   "date": "2026-10-29T13:00:00.000Z",
-   "source": "WAZ Essen",
-   "author": "Martina Schürmann",
-   "image": "https://img.sparknews.funkemedien.de/413526929/413526929_1793200659_v16_9_600.jpeg",
-   "origin": "WAZ Essen"
+   "title": "Studienkosten für Aus­län­de­r:in­nen: Kurzsichtige Auslese",
+   "summary": "Immer mehr Universitäten verlangen horrende Gebühren von internationalen Studierenden. Auch die Talentiertesten dürften so auf der Strecke bleiben. mehr...",
+   "link": "https://taz.de/Studienkosten-fuer-Auslaenderinnen/!6228322/",
+   "date": "2026-11-08T13:22:00.000Z",
+   "source": "taz",
+   "author": "Martin Sökefeld",
+   "image": "https://taz.de/picture/8850509/948/42472298.jpeg",
+   "origin": "taz"
   },
   {
-   "title": "Romans Made Color-Changing Glass–and We’ve Just Replicated After 1,600 Years",
-   "summary": "The Romans were incredible materials scientists, having famously invented self-healing concrete that allowed their structures to stand for millennia. Yet for some, it’s the glass that forms this one—yes, one—goblet that marks the undisputed pinnacle of Roman science. It’s made of what’s called…",
-   "link": "https://www.goodnewsnetwork.org/romans-made-color-changing-glass-and-weve-just-replicated-after-1600-years/",
-   "date": "2026-10-29T12:46:36.000Z",
-   "source": "Good News Network",
-   "author": "Andy Corbley",
-   "origin": "Good News Network"
+   "title": "Solidarisch auf der COP31: Die wichtigsten Klima-Kämp­fe­r*in­nen brauchen Unterstützung",
+   "summary": "In der Türkei findet die Weltklimakonferenz statt: doch Queers steht ein repressiver Staat gegenüber. Wie kann das gut gehen? mehr...",
+   "link": "https://taz.de/Solidarisch-auf-der-COP31/!6224175/",
+   "date": "2026-11-08T13:13:00.000Z",
+   "source": "taz",
+   "author": "Elya Maurice Conrad",
+   "image": "https://taz.de/picture/8844009/948/42317712.jpeg",
+   "origin": "taz"
   },
   {
-   "title": "12 starke Antworten auf nervige Interviewfragen von Sportjournalisten",
-   "summary": "\"Woran hat's gelegen?\", \"Freuen Sie sich über Ihren Sieg?\" - \"Wie fühlen Sie sich jetzt, nachdem Sie die Chance Ihres Lebens vergeigt haben?\" – Jeder kennt solche immer gleichen \"Scheißfragen\" von Sportjournalisten an Athleten unmittelbar nach einem Wettkampf oder Spiel. Der Postillon zeigt anhand…",
-   "link": "https://api.follow.it/track-rss-story-click/v3/hVR569XapuR1Ql7fvXZ7LlhWuWeR7DpW?utm_source=follow.it",
-   "date": "2026-10-29T12:26:09.000Z",
-   "source": "Der Postillon",
-   "image": "https://api.follow.it/track-rss-story-loaded/v1/qRtPaZhN99pZu2_qs9uNNGsGk81fO-bN",
-   "origin": "Der Postillon"
+   "title": "Why did a Florida man call 911 twice after a Black deputy arrived at his home?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNQW5nai11djZINzdQYTlOU2VwQmdCSkh2bWpWNVZaMEJ1S2ZlQlFWOUlzRXJ5RVpIa0pfbDVUVFExNUNmUExqaHh3VEk2TFlVV1pNRWViczY5N25LREkxbmx1WkM3enRlLVFKOFFJVThaWUVNUzlyVFowemdsVWdCWXFVa1htemNFd3phS3p5Y2YyUmx1alRwdDZsNHY4RnVHZDkyY2x0RVlmeUtucnZNN1RNZkpVTVVxejJSY1RMNWVtaG5wQk5qMjJabU5BYkFkQ2dKRllxWkZ2dEZVdElNWl8zWGx5TlJ0Qlg3WVlTZW1kUHJnZ3N1dUc4NF8tLVNBRjhYSmRRUElMdw?oc=5",
+   "date": "2026-11-08T12:30:00.000Z",
+   "source": "We Got This Covered",
+   "origin": "Google News · Florida Man"
   },
   {
    "title": "Gefährdete Tierart: Sorge um den Igel",
@@ -29645,6 +29584,14 @@
    "author": "Svenja Bergt",
    "image": "https://taz.de/picture/8849027/948/42479305.jpeg",
    "origin": "taz"
+  },
+  {
+   "title": "Nach Batteriespeicher-Brand in Bad Wörishofen: Diese Fehler sollten Hausbesitzer vermeiden",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPX1dtZnpIV2NXcWVvbHhBMmlKWWpncFdFX19EMUdITng2UVlhNmdteWJ0VUtZd2RQUnRyRjBzWTB6eXRnNTJqcFg2THR2THFBbHFZX1NZVXlYcHdVeFVMeWd3dm1JMUYwV3FxZll0RTNURlluLWgxejhmMmY3aS01Zk1PWi1EU1ZUSjFhd05BN3hlaE5GSWN2VU5McXJYS2pxTUFkT3VsUXFrWXpiLVp4ZkFqZlRpZnB4MHJyZ0ducUJ4TFVPcGphVnNSYW5iZDNhMVZOM0podldtOUJXQTYwZmJYMng?oc=5",
+   "date": "2026-11-08T03:50:58.000Z",
+   "source": "Augsburger Allgemeine",
+   "origin": "Google News · Regelenergie"
   },
   {
    "title": "Florida Man Arrested at Port for Crime Against 15-Year-Old",
@@ -29828,6 +29775,14 @@
    "author": "Esther Geißlinger",
    "image": "https://taz.de/picture/8848000/948/619816522.jpeg",
    "origin": "taz"
+  },
+  {
+   "title": "Why Livermore, CA Homeowners Are Turning to Your Energy Solutions for Battery Storage",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcG1YMFZ0cVA4WXNQaTJHRTNMRzc4SHlsTXI0aW52Wk5lMnJHOUVjbXYwR3piNk4tOXZVZTNheFdVRkUxQy1ESHpYRHBrSHZ2dFVVQmdfR2pucG1hSmMxazc2eWFuYVJDa2g2ajktWmZzZEhfMGNDWWVqRmFtMldEQ053bmtSbEZTTWNINUh4WnJiNEEzTDl0d1huTXFIVjZkQW1KeEJYaUJ6dE1KU3N6RnBja040eXc?oc=5",
+   "date": "2026-11-07T05:05:03.000Z",
+   "source": "Carroll County Mirror-Democrat",
+   "origin": "Google News · Power markets"
   },
   {
    "title": "Florida woman sues over fallen metal fixture in Wichita County",
@@ -30305,6 +30260,14 @@
    "origin": "Google News · Florida Man"
   },
   {
+   "title": "India Must Strengthen Grid, Battery Storage for Clean Energy Goals",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdS05WWR6dllOdUV3MFhSa2lkTlEtZUhKX3BkU2VvczFPOHpremhaaS1TSnoxajB2U0lUcnJzbEdHcjNtQ24wekotNWRNSnJZalk0N1ZKZ0xqMjFpUk5rMzNzNkxocV9PTnhEWGJGSkRnY2xYY2NWZUFGRF9SM0UzTmJCN1h4R1ZBUk12OUFHNE5ZYk4yWHpIajg1N1dmVmV0Tmw0ckptVmFDZnJtdERnZGpRVVZDMXZnRGdnd1hZSmpEdlhhMHZyYUNPdk1pekhFV0Y4?oc=5",
+   "date": "2026-11-05T05:09:06.000Z",
+   "source": "Construction World",
+   "origin": "Google News · Power markets"
+  },
+  {
    "title": "30-year-old Florida woman tried to kill her ex-girlfriend's new boyfriend: authorities",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPS3pqR3FRVXhlc2dFSEoyY2haM0VYdkw1dE1VTkpvS0t0UkdVUHZTWnJTaVVuQkw5cnpNMC1YRTdvbjI1QUUwaTY3dnR6OUxnNlR4S3BtLUlmcE0yUFB4d3EtLUstNW5fTVd0ak50S3puR3lJNUJlZVlEYnhQRVdTTHJGRDZvT1lwYmRCR3hhNkNaM01pRy1qcnlrZmZBUWhGMDFFOHFyd0FHblhnVDM1bExlTGNCZ0tkMlRCLW1QTVJXVVJ2cUNzbzJNa3Y0NWNER2VsS181YXFmNXN3X1AzNlZMNkdwZDNRMHN5SWJ1NkRmMUpuZlgzOUNhX18wRDhZQnZla3U2WHA4Z2MyeHNTaWhQMElsakUxWG55QXJEc0hVS2R6TmRiZjFsNEhwMDNoZjVxYkVIRUtnN0dBbF9pX3NGMXlWVHo4c3ExejczRm5DcTZvVGV1Q0JlUkc1dFpfLWZiRmRkb21jUlFWNm9sTW5fVEVXVlFzdUMtMlBJWWhFbmo1RkJ0ckp4dlRxVFpoaHN4OHM5aUZzUGs?oc=5",
@@ -30519,16 +30482,6 @@
    "origin": "taz"
   },
   {
-   "title": "Neue Bücher über Drogen und Verbote: Dem Irrsinn nahe",
-   "summary": "Drogen sind überall, nicht zuletzt an der Supermarktkasse. Der Soziologe Robert Feustel schreibt in seinem Buch aufrüttelnd über Rausch und Angst. mehr...",
-   "link": "https://taz.de/Buecher-ueber-Drogen-und-Verbote-Drogen-sind-ueberall-nicht-zuletzt-an-der-Supermarktkasse/!6226895/",
-   "date": "2026-11-04T08:24:00.000Z",
-   "source": "taz",
-   "author": "Ambros Waibel",
-   "image": "https://taz.de/picture/8840349/948/42469240.jpeg",
-   "origin": "taz"
-  },
-  {
    "title": "Democrat nominee accused of stalking Florida woman elected in SD2 |…",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb3Fsbml6RWdxRUx2OGRtMEtrbm9uckpiSXBpQXlPNXdsUlFvYnFrVVBZUjVrN1Y0SHprc2h4TTRqVWRiTm8zdW1xOGFHdW1zOWw1T1BUbHFRMjZ0YnhtRHp4ZE5VdXVkcFc4OFRlRGpiX21pMy1WRGtnTVNOYmhFNVJjdGhyOFV1NjVGbjFYRHlLUUhiX0RDT3c4UWw?oc=5",
@@ -30543,36 +30496,6 @@
    "date": "2026-11-03T22:00:45.000Z",
    "source": "Fox News",
    "origin": "Google News · Florida Man"
-  },
-  {
-   "title": "Angriffe auf Kühlanlagen: Eiskalt erwischt",
-   "summary": "Die Cyberattacken zeigen, wie verwundbar unsere Versorgung mit Lebensmitteln ist. Und wie sehr der Schutz kritischer Infrastruktur vernachlässigt wird. mehr...",
-   "link": "https://taz.de/Angriffe-auf-Kuehlanlagen/!6221032/",
-   "date": "2026-11-03T19:13:00.000Z",
-   "source": "taz",
-   "author": "Tanja Tricarico",
-   "image": "https://taz.de/picture/8842388/948/42472553.jpeg",
-   "origin": "taz"
-  },
-  {
-   "title": "Bilger für Handyblitzer: Das Problem am falschen Ende angepackt",
-   "summary": "Der Verkehrsminister will mit Monocams gegen Handysünder vorgehen. Geht es um Sicherheit oder um eine PR-Aktion und den KI-Trend? mehr...",
-   "link": "https://taz.de/Bilger-fuer-Handyblitzer/!6227012/",
-   "date": "2026-11-03T19:12:00.000Z",
-   "source": "taz",
-   "author": "Klaudia Lagozinski",
-   "image": "https://taz.de/picture/8840990/948/42471736.jpeg",
-   "origin": "taz"
-  },
-  {
-   "title": "Eishockey-WM in Deutschland: Ein Tor für Russland",
-   "summary": "Das internationale Sportschiedsgericht hat entschieden: Russland darf ran an den WM-Puck. Unpolitischer wird der Sport dadurch kaum. mehr...",
-   "link": "https://taz.de/Eishockey-WM-in-Deutschland/!6226948/",
-   "date": "2026-11-03T19:11:00.000Z",
-   "source": "taz",
-   "author": "Andreas Rüttenauer",
-   "image": "https://taz.de/picture/8840640/948/42471397.jpeg",
-   "origin": "taz"
   },
   {
    "title": "Florida man has a seizure while hanging Halloween decorations. Then police arrive 45 minutes later and allegedly tase him while EMS is helping him",
@@ -30597,16 +30520,6 @@
    "date": "2026-11-03T16:07:37.000Z",
    "source": "Florida Politics",
    "origin": "Google News · Florida Man"
-  },
-  {
-   "title": "Förderung neuer Gaskraftwerke: Saurer Apfel",
-   "summary": "Wer elektrische Sicherheit gewährleisten will, kommt an fossilen Kraftwerken nicht vorbei. Der Stromverbrauch ist von den Netzen nicht zu schaffen. mehr...",
-   "link": "https://taz.de/Foerderung-neuer-Gaskraftwerke/!6226902/",
-   "date": "2026-11-03T15:51:00.000Z",
-   "source": "taz",
-   "author": "Bernward Janzing",
-   "image": "https://taz.de/picture/8840389/948/42471654.jpeg",
-   "origin": "taz"
   },
   {
    "title": "Florida Man Was On the Run After Fatal Accident Where He Tried to Pass Semi-Truck In No-Passing Zone. He Has Been Found and Arrested",
@@ -31036,22 +30949,6 @@
    "origin": "Google News · Florida Man"
   },
   {
-   "title": "From inmate to inspiration: South Florida man returns to juvenile detention center to change lives",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPV01pbDBPZFhJNnRIbHg0SHpMc0lhU2I0M1FUT3ZfQzMtYWtwdEtfaldjeFZfeTFndG5IVWNDLTNxQVE4QlVsOHFIR0ZWdHBPdUloaFNDYnFKaC1MUExTVDZoQ3RUWnF0clVMTkg3UHdRY3pCOXJWdHA4TUJqYkh2b2txM0hoQ0txRW5fR0g2cElMcUpvakxDT0ZhUWp3V3hpMWNBdWdVM1VnSEQ4VDBXTU51N0s0d1hWNE1wTi1jM2FPVDI0NTUwaG1iRDNjLVNPOGM0bXFkREtrOUhKcjJueDdR?oc=5",
-   "date": "2026-10-30T14:58:24.000Z",
-   "source": "WPLG Local 10",
-   "origin": "Google News · Florida Man"
-  },
-  {
-   "title": "Florida Man Blames Self-Driving Cybertruck During DUI Arrest, but Was Tesla Actually Driving?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbUNxZHdfTG9OUExzY3lHeWI4V3VCaU5QRkdRWVlpWVhNSV82aE5rUEh0OW9vVTFySlZMN0R4bS1PdmtlcTZQSDRuakMxX2lORWFtMEI2dHNyaHExVl9ZQ3RVRjJxaFZIY1JYcGo4Q0JsWU0xcmtoVHJaenBGYjQ4N2VIbmVLT1JvV25XUVFmSHZpZnQ1cU8tazdBeFVhTVE?oc=5",
-   "date": "2026-10-30T14:53:51.000Z",
-   "source": "Yahoo Autos",
-   "origin": "Google News · Florida Man"
-  },
-  {
    "title": "Ghosts and Gobblin’",
    "summary": "",
    "link": "https://theonion.com/ghosts-and-gobblin/",
@@ -31110,6 +31007,30 @@
    "origin": "Google News · Essen"
   },
   {
+   "title": "Heizungswende - Gaspreis infiziert Strompreis: Der Wärme­pumpen­vorteil steigt",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS3lXZHJoTXZSRW5ueUVQT3pNY3N5MUw0bHBqNFEyRmJ4SFJ2NnpmeDc3TVh4QjM1NVJYa3psckJBaU8zRjFZMXh1bEYzV1F4SWJDdTYtbEo3ZmxNVVFRSEZyRUpXTkVPaUpzUDdMWGkwajlMUTFsajZSZ1hvc01OYjJlakxtQkZIQXcyYnd1ZzZyMVZtN1RKb2t0b0hLa2h4bGt6X1I4V1JTZUozR1ZiSzVkZjg?oc=5",
+   "date": "2026-11-08T12:54:49.000Z",
+   "source": "TGA+E Fachplaner",
+   "origin": "Google News · Energie"
+  },
+  {
+   "title": "\"Treuestrafe\" beim Strompreis trifft Millionen Haushalte: So gelingt der Anbieterwechsel",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQY1J3cFFEWS1tb1pkVnhQUXVHcGc5VU0xcGpVZjZhWHFBR2ZXVElEZTY3TnNHNnJzOV9YVGVfLXRKUFktVGFhT1MyUFFqbVZHeWc3MHBxUmZ4ZUdrQnBwSW5PdkFZR3dBcnJNR2RxYXd1VnRtZ185LTRGSjVVNHRHZzBwNUFuQ2JfZXlZaXl2d0JvS0RObGs2ekZQZkZhN05UWmxZeUpTVW1MczdfdkZrV0tmME5OOEd0akJjLTV5Q283TmdabXhrNi1HaVFKdm5feC14TGliVm5zbDNBUXd0cU1tTUtxZ2drWk5KSFQ4WDBUMXY2MXltSFVPOUI3XzJWdG9DQw?oc=5",
+   "date": "2026-11-08T12:52:15.000Z",
+   "source": "inFranken.de",
+   "origin": "Google News · Energie"
+  },
+  {
+   "title": "Energiemonitor: Schafft Deutschland die Energiewende?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcmZYS1EwRFd5cGs5V0Y5ZHV5bGJCbjZkeDZDMTFCWVcwYXlSM1R1Ym9QUDgtSmo2OXhUQXpoS3NYSTNHU04zc2RfTi1Yb0VaQkdIS1E0UkxhRHB4X2ZfZWpyMkdhWm5XMmlLUjN3NXZTV2NTX1lOamFzbnVPTlRfMC10WGRUMnBJaHBnR0pVd0ZUY1F1djBoYg?oc=5",
+   "date": "2026-11-08T12:01:34.000Z",
+   "source": "DIE ZEIT",
+   "origin": "Google News · Energie"
+  },
+  {
    "title": "Interaktive Live-Grafiken: So voll sind die Gasspeicher in Bayern aktuell",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMXZtTHF4UHN5UXNDU1BacnJIQjk4S0dkS25CMjBJeHlWU1N3eERFUUdWT1EzdGJRZlRCSlBkTjhyMDdjY3pWTlpXbGVEMkRydzB5bTZLU21rR0Zralp0ZVh4dUprVXNzaHV0NnE5NEpQWU55NVpyMzhpQ21Yb1BvYTNtWFBZSUgxcjlYQVhGOVNQNzRka2Z0MEpYcmVwTnRYa2tmTVhMVXdsa2doVjVCV0l6QkJHMmltNW50NTlaZ2VNN2pHVk50d3FBSmQ?oc=5",
@@ -31118,12 +31039,12 @@
    "origin": "Google News · Energie"
   },
   {
-   "title": "Energiemonitor: Schafft Deutschland die Energiewende?",
+   "title": "Zwei Mega-Batteriespeicher in Oberösterreich geplant",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcmZYS1EwRFd5cGs5V0Y5ZHV5bGJCbjZkeDZDMTFCWVcwYXlSM1R1Ym9QUDgtSmo2OXhUQXpoS3NYSTNHU04zc2RfTi1Yb0VaQkdIS1E0UkxhRHB4X2ZfZWpyMkdhWm5XMmlLUjN3NXZTV2NTX1lOamFzbnVPTlRfMC10WGRUMnBJaHBnR0pVd0ZUY1F1djBoYg?oc=5",
-   "date": "2026-11-08T09:55:03.000Z",
-   "source": "DIE ZEIT",
-   "origin": "Google News · Energie"
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY3c5TXNGaTRaTGZKNGR5UkthZzdjZVlGOEVRLVA0VzNxTkc0RUczcWxiNkJPUk8yUXJuczZySzlid1o2cGhCaHdXUVpmQkI4NUJyRmx1QlhOdG5kYWQtUGdhbWFzbXJYenRBTUpMcGlDdE1uQ0pXYWZURnM4SklZa1ctcXNwdTcyV09tejVn0gGTAUFVX3lxTFBrUGJaNTA0OHhXcllVNVRzRWwwMlAwNFBkLVJqOGFPOGFKZ1ZLUjJhamVSOGJsMmVmWnJNbDk1cllQWEhBSlJBWjVMWFBlUVZSbGVTc1FXQUJUSlUxNFFwWFdJUXVRclhIX0I0RUZOUlBaQ1N6QlM1bUxsd0o4Y0tETEloWFcyMDVQLWNBUzNDdkRWOA?oc=5",
+   "date": "2026-11-08T10:28:21.000Z",
+   "source": "oe24",
+   "origin": "Google News · Regelenergie"
   },
   {
    "title": "(S+) Meinung: Energiepolitik: So sorgt Katherina Reiche für dauerhaft teuren Strom – Kolumne",
@@ -31199,10 +31120,27 @@
    "origin": "Google News · Energie"
   },
   {
+   "title": "Rave Love Partyfotos: 06.11.2026 @ Nachtresidenz, Düsseldorf",
+   "titleEn": "Rave Love Party Photos: 06/11/2026 @ Nachtresidenz, Düsseldorf",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZFlKWDZyMnlsd1pQZ1JFTXFkMF9YZzYyYzd0ZEJHUzZGbklJd0NQdzE2YVVaT0ctM3M1VUNLQ2FVbnRkSGxyWUJkZ3ZFcmlvWV9FR05GR2VpSWlISGhyUUdyNjJVOXd6b21jQ2dBVVVvZHhVNWlZMEJvUjc4YndMTEtfWnFzWDkzMm9FTmlsdkFEVFRPU1A3R1o1NUs?oc=5",
+   "date": "2026-11-07T17:52:01.000Z",
+   "source": "virtualnights.com",
+   "origin": "Google News · Essen"
+  },
+  {
    "title": "Klingbeil: Steuerplus reicht nicht für Stromsteuer-Senkung - Panorama - SZ.de",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeXJBbmJidUg2Y1hwTXdRM0k0WnRXQ1ltcEROMGdSREJJRGIxbHJQUVFNTW5PNGI2N2Z4UXVkQkctS2wzcW9HWk4wdnJHRXJ2MlFSQVBzYVdXR3dmdUZLNGgwVkF4TTZONldleG1HeVpXeU5GZV9odURpODFPOVVYYkQxOHVxUlVzRlVRQjg4V0NjYWFXT0QtRGdKR1MxYW80ejNGU18xNjFoQQ?oc=5",
    "date": "2026-11-07T16:15:38.000Z",
+   "source": "SZ.de",
+   "origin": "Google News · Energie"
+  },
+  {
+   "title": "Gasspeicher werden gefüllt: Ministerin Reiche möchte Versorgung absichern - Panorama - SZ.de",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNV9KMERfSS1pOXA4SldSRkg4UnF2VU5VNTVSeU5qOFZtNDJSTm80Z3UyWHhubWFYUFZmWXZudXpsU0NhT2QwTktpcUw0bkZ0cEhQeXBuUmZ4OEtQa2JmcWEzUUNFSW10UlhULURCclc3azFkSDlMZWl0bzdnSmYyOUhTQUxSUU5BYXExZlB3a3V2d2VBaU5PSGlhdHJMcm80U2xRc2Fyc1BvX3RNcE5Wa0wzRko2MV8wMkktMktTdw?oc=5",
+   "date": "2026-11-07T14:50:25.000Z",
    "source": "SZ.de",
    "origin": "Google News · Energie"
   },
@@ -31899,26 +31837,6 @@
    "date": "2026-10-29T17:00:00.000Z",
    "source": "WAZ",
    "origin": "Google News · Essen"
-  },
-  {
-   "title": "Weihnachtsmarkt Düsseldorf 2026: Märkte, Riesenrad und Tipps",
-   "titleEn": "Düsseldorf Christmas Market 2026: Opening Hours and Markets",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVHg2UG5OU0Q0MVM3T3RwQVAyenVqaVRMX0RXV3BlMTJUQnMtdjhYTjhfVjhoTVBrMlVVc05xeElQSE1TdVF1a1VLcE5MVHZKYWJKQVJyd3RaUkdublBIMDZ6cmlJbk93Zmp4VGRfQVltanBEamRsT19mUHlGdzlmbFRpTEJialpyOEN2VVN4Xy1nUGZ1SVN3Q1NJU1JyQVhQQUI5VUZTMjYtUQ?oc=5",
-   "date": "2026-10-29T13:29:12.000Z",
-   "source": "Neue Düsseldorfer Online Zeitung",
-   "origin": "Google News · Essen"
-  },
-  {
-   "title": "Flug ab Dortmund zu „Europas schönstem Weihnachtsmarkt“ dauert nur 90 Minuten",
-   "titleEn": "Flight from Dortmund to \"Europe's most beautiful Christmas market\" takes only 90 minutes",
-   "summary": "Der Dortmunder Flughafen startet mit 40 Direktzielen in den Winter. Darunter ist auch Europas bester Weihnachtsmarkt. Doch das ist nicht alles.",
-   "link": "https://www.ruhr24.de/dortmund/flughafen-dortmund-winterflugplan-2026-danzig-weihnachtsmarkt-wizz-air-rom-flugziele-94564310.html",
-   "date": "2026-10-29T12:04:00.000Z",
-   "source": "RUHR24 Essen",
-   "author": "Daniele Giustolisi",
-   "image": "https://www.ruhr24.de/assets/images/44/631/44631793-der-weihnachtsmarkt-von-danzig-in-polen-und-oben-ein-flugzeug-von-wizzair-2LA69C8S1ref.jpg",
-   "origin": "RUHR24 Essen"
   }
  ],
  "eventCache": {
@@ -32070,7 +31988,7 @@
    "category": "Party",
    "source": "Rausgegangen · Essen",
    "ok": true,
-   "fetchedAt": "2026-11-06T12:00:26.530Z"
+   "fetchedAt": "2026-11-08T13:40:15.144Z"
   },
   "https://rausgegangen.de/en/events/drei-essener-herrscherinnen-1726-1776-1826-25/": {
    "title": "Drei Essener Herrscherinnen: 1726 - 1776 - 1826",
@@ -36420,7 +36338,7 @@
    "category": "Concerts & Music",
    "source": "Rausgegangen · Essen",
    "ok": true,
-   "fetchedAt": "2026-11-06T12:00:26.530Z"
+   "fetchedAt": "2026-11-08T13:40:15.144Z"
   },
   "https://rausgegangen.de/en/events/sunday-swingers-4/": {
    "title": "Sunday Swingers",
@@ -36450,7 +36368,7 @@
    "category": "Concerts & Music",
    "source": "Rausgegangen · Essen",
    "ok": true,
-   "fetchedAt": "2026-11-06T12:00:26.530Z"
+   "fetchedAt": "2026-11-08T13:40:15.144Z"
   },
   "https://rausgegangen.de/en/events/bucherbasar-in-unserer-bibliothek-entdecken-stobern-mitnehme-1/": {
    "title": "Bücherbasar in unserer Bibliothek – Entdecken, Stöbern, Mitnehmen!",
@@ -37500,7 +37418,7 @@
    "category": "Market",
    "source": "Rausgegangen · Bochum",
    "ok": true,
-   "fetchedAt": "2026-11-06T01:38:59.715Z"
+   "fetchedAt": "2026-11-08T13:40:15.144Z"
   },
   "https://rausgegangen.de/en/events/drunken-masters-die-demontage-geht-immer-noch-weiter-3/": {
    "title": "DRUNKEN MASTERS • Die Demontage geht immer noch weiter",
